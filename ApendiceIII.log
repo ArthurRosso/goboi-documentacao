@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.6.1)  7 JUN 2018 18:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.6.1)  9 JUN 2018 00:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -602,11 +602,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <img/prototipos/login.png, id=27, 1371.1225pt x 770.88pt>
 File: img/prototipos/login.png Graphic file (type png)
 <use img/prototipos/login.png>
-Package pdftex.def Info: img/prototipos/login.png  used on input line 192.
+Package pdftex.def Info: img/prototipos/login.png  used on input line 230.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:194: Undefined control sequence.
-l.194 \floatfoot
+./ApendiceIII.tex:232: Undefined control sequence.
+l.232 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -617,10 +617,10 @@ and I'll forget about whatever was undefined.
 <img/prototipos/index.png, id=28, 1371.1225pt x 770.88pt>
 File: img/prototipos/index.png Graphic file (type png)
 <use img/prototipos/index.png>
-Package pdftex.def Info: img/prototipos/index.png  used on input line 205.
+Package pdftex.def Info: img/prototipos/index.png  used on input line 243.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:207: Undefined control sequence.
-l.207 \floatfoot
+./ApendiceIII.tex:245: Undefined control sequence.
+l.245 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -632,11 +632,11 @@ and I'll forget about whatever was undefined.
 <img/prototipos/animal.png, id=33, 1371.1225pt x 770.88pt>
 File: img/prototipos/animal.png Graphic file (type png)
 <use img/prototipos/animal.png>
-Package pdftex.def Info: img/prototipos/animal.png  used on input line 219.
+Package pdftex.def Info: img/prototipos/animal.png  used on input line 257.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:221: Undefined control sequence.
-l.221 \floatfoot
+./ApendiceIII.tex:259: Undefined control sequence.
+l.259 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -647,10 +647,10 @@ and I'll forget about whatever was undefined.
 <img/prototipos/remedio.png, id=34, 1371.1225pt x 770.88pt>
 File: img/prototipos/remedio.png Graphic file (type png)
 <use img/prototipos/remedio.png>
-Package pdftex.def Info: img/prototipos/remedio.png  used on input line 232.
+Package pdftex.def Info: img/prototipos/remedio.png  used on input line 270.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:234: Undefined control sequence.
-l.234 \floatfoot
+./ApendiceIII.tex:272: Undefined control sequence.
+l.272 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -662,11 +662,11 @@ and I'll forget about whatever was undefined.
 <img/prototipos/medicacao.png, id=38, 1371.1225pt x 770.88pt>
 File: img/prototipos/medicacao.png Graphic file (type png)
 <use img/prototipos/medicacao.png>
-Package pdftex.def Info: img/prototipos/medicacao.png  used on input line 246.
+Package pdftex.def Info: img/prototipos/medicacao.png  used on input line 284.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:248: Undefined control sequence.
-l.248 \floatfoot
+./ApendiceIII.tex:286: Undefined control sequence.
+l.286 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -677,10 +677,10 @@ and I'll forget about whatever was undefined.
 <img/prototipos/perfil.png, id=39, 1371.1225pt x 770.88pt>
 File: img/prototipos/perfil.png Graphic file (type png)
 <use img/prototipos/perfil.png>
-Package pdftex.def Info: img/prototipos/perfil.png  used on input line 259.
+Package pdftex.def Info: img/prototipos/perfil.png  used on input line 297.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:261: Undefined control sequence.
-l.261 \floatfoot
+./ApendiceIII.tex:299: Undefined control sequence.
+l.299 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -692,11 +692,11 @@ and I'll forget about whatever was undefined.
 <img/prototipos/editar.png, id=43, 1371.1225pt x 770.88pt>
 File: img/prototipos/editar.png Graphic file (type png)
 <use img/prototipos/editar.png>
-Package pdftex.def Info: img/prototipos/editar.png  used on input line 273.
+Package pdftex.def Info: img/prototipos/editar.png  used on input line 311.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:275: Undefined control sequence.
-l.275 \floatfoot
+./ApendiceIII.tex:313: Undefined control sequence.
+l.313 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -707,10 +707,10 @@ and I'll forget about whatever was undefined.
 <img/prototipos/peso.png, id=44, 1371.1225pt x 770.88pt>
 File: img/prototipos/peso.png Graphic file (type png)
 <use img/prototipos/peso.png>
-Package pdftex.def Info: img/prototipos/peso.png  used on input line 286.
+Package pdftex.def Info: img/prototipos/peso.png  used on input line 324.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:288: Undefined control sequence.
-l.288 \floatfoot
+./ApendiceIII.tex:326: Undefined control sequence.
+l.326 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -719,14 +719,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [10 <./img/prototipos/editar.png> <./img/prototipos/peso.png>]
-<img/erdoboi.jpeg, id=48, 1263.72125pt x 627.34375pt>
-File: img/erdoboi.jpeg Graphic file (type jpg)
-<use img/erdoboi.jpeg>
-Package pdftex.def Info: img/erdoboi.jpeg  used on input line 304.
-(pdftex.def)             Requested size: 433.62pt x 215.25641pt.
+<img/atividadegerenciarboi.png, id=48, 1578.64781pt x 1647.90656pt>
+File: img/atividadegerenciarboi.png Graphic file (type png)
+<use img/atividadegerenciarboi.png>
+Package pdftex.def Info: img/atividadegerenciarboi.png  used on input line 340.
+(pdftex.def)             Requested size: 433.62pt x 452.63509pt.
 
-./ApendiceIII.tex:306: Undefined control sequence.
-l.306 \floatfoot
+./ApendiceIII.tex:342: Undefined control sequence.
+l.342 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -734,15 +734,32 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[11 <./img/erdoboi.jpeg>] [12] (./ApendiceIII.bbl)
+<img/erdoboi.jpeg, id=49, 1263.72125pt x 627.34375pt>
+File: img/erdoboi.jpeg Graphic file (type jpg)
+<use img/erdoboi.jpeg>
+Package pdftex.def Info: img/erdoboi.jpeg  used on input line 351.
+(pdftex.def)             Requested size: 433.62pt x 215.25641pt.
+./ApendiceIII.tex:353: Undefined control sequence.
+l.353 \floatfoot
+                {Fonte: Autoria própria.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-./ApendiceIII.tex:377: LaTeX Error: \begin{titlepage} on input line 28 ended by \end{document}.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./img/atividadegerenciarboi.png>] [12 <./img/erdoboi.jpeg>] (./ApendiceIII.bbl)
+
+./ApendiceIII.tex:424: LaTeX Error: \begin{titlepage} on input line 28 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.377 \end{document}
+l.424 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -758,18 +775,18 @@ LaTeX Warning: There were undefined references.
 ### semi simple group (level 1) entered at line 28 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3736 strings out of 492982
- 48860 string characters out of 6138580
+ 3741 strings out of 492982
+ 49020 string characters out of 6138580
  142272 words of memory out of 5000000
- 7198 multiletter control sequences out of 15000+600000
+ 7202 multiletter control sequences out of 15000+600000
  24513 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,14n,25p,670b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ApendiceIII.pdf (13 pages, 1189423 bytes).
+Output written on ApendiceIII.pdf (13 pages, 1534942 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
