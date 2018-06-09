@@ -13,10 +13,6 @@ Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: ApendiceIII.bib
-""" immediately follows a field name---line 11 of file ApendiceIII.bib
- :  author
- :        "Rosso, Arthur"
-I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -67,4 +63,3 @@ warning$ -- 0
 while$ -- 9
 width$ -- 0
 write$ -- 23
-(There was 1 error message)
