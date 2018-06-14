@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.6.1)  14 JUN 2018 10:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.6.1)  14 JUN 2018 17:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -591,48 +591,8 @@ and I'll forget about whatever was undefined.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/bovcontrolapp1.jpeg, id=13, 722.7pt x 1284.8pt>
-File: img/bovcontrolapp1.jpeg Graphic file (type jpg)
-<use img/bovcontrolapp1.jpeg>
-Package pdftex.def Info: img/bovcontrolapp1.jpeg  used on input line 123.
-(pdftex.def)             Requested size: 433.62pt x 770.88596pt.
-./ApendiceIII.tex:125: Undefined control sequence.
-l.125 \floatfoot
-                {Fonte: Autoria própria.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Float too large for page by 170.01141pt on input line 127.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/bovcontrolapp2.jpeg, id=14, 722.7pt x 1284.8pt>
-File: img/bovcontrolapp2.jpeg Graphic file (type jpg)
-<use img/bovcontrolapp2.jpeg>
-Package pdftex.def Info: img/bovcontrolapp2.jpeg  used on input line 132.
-(pdftex.def)             Requested size: 433.62pt x 770.88596pt.
-./ApendiceIII.tex:134: Undefined control sequence.
-l.134 \floatfoot
-                {Fonte: Autoria própria.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Float too large for page by 170.01141pt on input line 136.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [3]
-<img/jetbov.png, id=18, 1371.1225pt x 770.88pt>
+<img/jetbov.png, id=16, 1371.1225pt x 770.88pt>
 File: img/jetbov.png Graphic file (type png)
 <use img/jetbov.png>
 Package pdftex.def Info: img/jetbov.png  used on input line 154.
@@ -650,55 +610,15 @@ and I'll forget about whatever was undefined.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/jetbovapp1.jpeg, id=19, 722.7pt x 1284.8pt>
-File: img/jetbovapp1.jpeg Graphic file (type jpg)
-<use img/jetbovapp1.jpeg>
-Package pdftex.def Info: img/jetbovapp1.jpeg  used on input line 163.
-(pdftex.def)             Requested size: 433.62pt x 770.88596pt.
-./ApendiceIII.tex:165: Undefined control sequence.
-l.165 \floatfoot
-                {Fonte: Autoria própria.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Float too large for page by 170.01141pt on input line 167.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/jetbovapp2.jpeg, id=20, 722.7pt x 1284.8pt>
-File: img/jetbovapp2.jpeg Graphic file (type jpg)
-<use img/jetbovapp2.jpeg>
-Package pdftex.def Info: img/jetbovapp2.jpeg  used on input line 172.
-(pdftex.def)             Requested size: 433.62pt x 770.88596pt.
-./ApendiceIII.tex:174: Undefined control sequence.
-l.174 \floatfoot
-                {Fonte: Autoria própria.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Float too large for page by 170.01141pt on input line 176.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4 <./img/bovcontrol.png>]
-<img/a3pecuaria.png, id=24, 1371.1225pt x 770.88pt>
+[4 <./img/bovcontrol.png>] [5 <./img/jetbov.png>]
+<img/a3pecuaria.png, id=23, 1371.1225pt x 770.88pt>
 File: img/a3pecuaria.png Graphic file (type png)
 <use img/a3pecuaria.png>
-Package pdftex.def Info: img/a3pecuaria.png  used on input line 194.
+Package pdftex.def Info: img/a3pecuaria.png  used on input line 195.
 (pdftex.def)             Requested size: 433.62pt x 243.79303pt.
 
-./ApendiceIII.tex:196: Undefined control sequence.
-l.196 \floatfoot
+./ApendiceIII.tex:197: Undefined control sequence.
+l.197 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -706,58 +626,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/a3pecuariaapp1.jpeg, id=25, 722.7pt x 1284.8pt>
-File: img/a3pecuariaapp1.jpeg Graphic file (type jpg)
-<use img/a3pecuariaapp1.jpeg>
-Package pdftex.def Info: img/a3pecuariaapp1.jpeg  used on input line 203.
-(pdftex.def)             Requested size: 433.62pt x 770.88596pt.
-./ApendiceIII.tex:205: Undefined control sequence.
-l.205 \floatfoot
-                {Fonte: Autoria própria.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Float too large for page by 170.01141pt on input line 207.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/a3pecuariaapp2.jpeg, id=26, 722.7pt x 1284.8pt>
-File: img/a3pecuariaapp2.jpeg Graphic file (type jpg)
-<use img/a3pecuariaapp2.jpeg>
-Package pdftex.def Info: img/a3pecuariaapp2.jpeg  used on input line 212.
-(pdftex.def)             Requested size: 433.62pt x 770.88596pt.
-./ApendiceIII.tex:214: Undefined control sequence.
-l.214 \floatfoot
-                {Fonte: Autoria própria.}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Float too large for page by 170.01141pt on input line 216.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5]
-<img/casosdeuso.png, id=30, 793.46437pt x 521.69907pt>
+[6 <./img/a3pecuaria.png>]
+<img/casosdeuso.png, id=27, 793.46437pt x 521.69907pt>
 File: img/casosdeuso.png Graphic file (type png)
 <use img/casosdeuso.png>
-Package pdftex.def Info: img/casosdeuso.png  used on input line 230.
+Package pdftex.def Info: img/casosdeuso.png  used on input line 228.
 (pdftex.def)             Requested size: 433.62pt x 285.10446pt.
 
-./ApendiceIII.tex:232: Undefined control sequence.
-l.232 \floatfoot
+./ApendiceIII.tex:230: Undefined control sequence.
+l.230 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -765,24 +642,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 240.
+(Font)              <12> on input line 238.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 240.
+(Font)              <8> on input line 238.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 240.
-[6] [7]
-<img/prototipos/login.png, id=39, 1371.1225pt x 770.88pt>
+(Font)              <6> on input line 238.
+[7 <./img/casosdeuso.png>] [8] [9]
+<img/prototipos/login.png, id=40, 1371.1225pt x 770.88pt>
 File: img/prototipos/login.png Graphic file (type png)
 <use img/prototipos/login.png>
-Package pdftex.def Info: img/prototipos/login.png  used on input line 347.
+Package pdftex.def Info: img/prototipos/login.png  used on input line 345.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:349: Undefined control sequence.
-l.349 \floatfoot
+./ApendiceIII.tex:347: Undefined control sequence.
+l.347 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -790,16 +664,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/prototipos/index.png, id=40, 1371.1225pt x 770.88pt>
+<img/prototipos/index.png, id=41, 1371.1225pt x 770.88pt>
 File: img/prototipos/index.png Graphic file (type png)
 <use img/prototipos/index.png>
-Package pdftex.def Info: img/prototipos/index.png  used on input line 360.
+Package pdftex.def Info: img/prototipos/index.png  used on input line 358.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:362: Undefined control sequence.
-l.362 \floatfoot
+./ApendiceIII.tex:360: Undefined control sequence.
+l.360 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -807,18 +678,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8]
-<img/prototipos/animal.png, id=44, 1371.1225pt x 770.88pt>
+[10 <./img/prototipos/login.png> <./img/prototipos/index.png>]
+<img/prototipos/animal.png, id=45, 1371.1225pt x 770.88pt>
 File: img/prototipos/animal.png Graphic file (type png)
 <use img/prototipos/animal.png>
-Package pdftex.def Info: img/prototipos/animal.png  used on input line 374.
+Package pdftex.def Info: img/prototipos/animal.png  used on input line 372.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:376: Undefined control sequence.
-l.376 \floatfoot
+./ApendiceIII.tex:374: Undefined control sequence.
+l.374 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -826,16 +694,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/prototipos/remedio.png, id=45, 1371.1225pt x 770.88pt>
+<img/prototipos/remedio.png, id=46, 1371.1225pt x 770.88pt>
 File: img/prototipos/remedio.png Graphic file (type png)
 <use img/prototipos/remedio.png>
-Package pdftex.def Info: img/prototipos/remedio.png  used on input line 387.
+Package pdftex.def Info: img/prototipos/remedio.png  used on input line 385.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:389: Undefined control sequence.
-l.389 \floatfoot
+./ApendiceIII.tex:387: Undefined control sequence.
+l.387 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -843,18 +708,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9]
-<img/prototipos/medicacao.png, id=49, 1371.1225pt x 770.88pt>
+[11 <./img/prototipos/animal.png> <./img/prototipos/remedio.png>]
+<img/prototipos/medicacao.png, id=50, 1371.1225pt x 770.88pt>
 File: img/prototipos/medicacao.png Graphic file (type png)
 <use img/prototipos/medicacao.png>
-Package pdftex.def Info: img/prototipos/medicacao.png  used on input line 401.
+Package pdftex.def Info: img/prototipos/medicacao.png  used on input line 399.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:403: Undefined control sequence.
-l.403 \floatfoot
+./ApendiceIII.tex:401: Undefined control sequence.
+l.401 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -862,16 +724,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/prototipos/perfil.png, id=50, 1371.1225pt x 770.88pt>
+<img/prototipos/perfil.png, id=51, 1371.1225pt x 770.88pt>
 File: img/prototipos/perfil.png Graphic file (type png)
 <use img/prototipos/perfil.png>
-Package pdftex.def Info: img/prototipos/perfil.png  used on input line 414.
+Package pdftex.def Info: img/prototipos/perfil.png  used on input line 412.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:416: Undefined control sequence.
-l.416 \floatfoot
+./ApendiceIII.tex:414: Undefined control sequence.
+l.414 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -879,18 +738,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[10]
-<img/prototipos/editar.png, id=54, 1371.1225pt x 770.88pt>
+[12 <./img/prototipos/medicacao.png> <./img/prototipos/perfil.png>]
+<img/prototipos/editar.png, id=55, 1371.1225pt x 770.88pt>
 File: img/prototipos/editar.png Graphic file (type png)
 <use img/prototipos/editar.png>
-Package pdftex.def Info: img/prototipos/editar.png  used on input line 428.
+Package pdftex.def Info: img/prototipos/editar.png  used on input line 426.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:430: Undefined control sequence.
-l.430 \floatfoot
+./ApendiceIII.tex:428: Undefined control sequence.
+l.428 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -898,16 +754,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/prototipos/peso.png, id=55, 1371.1225pt x 770.88pt>
+<img/prototipos/peso.png, id=56, 1371.1225pt x 770.88pt>
 File: img/prototipos/peso.png Graphic file (type png)
 <use img/prototipos/peso.png>
-Package pdftex.def Info: img/prototipos/peso.png  used on input line 441.
+Package pdftex.def Info: img/prototipos/peso.png  used on input line 439.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:443: Undefined control sequence.
-l.443 \floatfoot
+./ApendiceIII.tex:441: Undefined control sequence.
+l.441 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -915,18 +768,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11]
-<img/atividadeanimal.png, id=59, 1590.69281pt x 1647.90656pt>
+[13 <./img/prototipos/editar.png> <./img/prototipos/peso.png>]
+<img/atividadeanimal.png, id=61, 1590.69281pt x 1647.90656pt>
 File: img/atividadeanimal.png Graphic file (type png)
 <use img/atividadeanimal.png>
-Package pdftex.def Info: img/atividadeanimal.png  used on input line 457.
+Package pdftex.def Info: img/atividadeanimal.png  used on input line 455.
 (pdftex.def)             Requested size: 433.62pt x 449.21536pt.
 
-./ApendiceIII.tex:459: Undefined control sequence.
-l.459 \floatfoot
+./ApendiceIII.tex:457: Undefined control sequence.
+l.457 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -934,18 +784,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[12]
-<img/atividaderemedio.png, id=63, 1181.16281pt x 989.19562pt>
+[14 <./img/atividadeanimal.png>]
+<img/atividaderemedio.png, id=66, 1181.16281pt x 989.19562pt>
 File: img/atividaderemedio.png Graphic file (type png)
 <use img/atividaderemedio.png>
-Package pdftex.def Info: img/atividaderemedio.png  used on input line 468.
+Package pdftex.def Info: img/atividaderemedio.png  used on input line 466.
 (pdftex.def)             Requested size: 433.62pt x 363.1439pt.
 
-./ApendiceIII.tex:470: Undefined control sequence.
-l.470 \floatfoot
+./ApendiceIII.tex:468: Undefined control sequence.
+l.468 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -953,16 +800,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/atividademedicacao.png, id=64, 1184.92688pt x 989.19562pt>
+[15 <./img/atividaderemedio.png>]
+<img/atividademedicacao.png, id=71, 1184.92688pt x 989.19562pt>
 File: img/atividademedicacao.png Graphic file (type png)
 <use img/atividademedicacao.png>
-Package pdftex.def Info: img/atividademedicacao.png  used on input line 479.
+Package pdftex.def Info: img/atividademedicacao.png  used on input line 477.
 (pdftex.def)             Requested size: 433.62pt x 361.99677pt.
-./ApendiceIII.tex:481: Undefined control sequence.
-l.481 \floatfoot
+
+./ApendiceIII.tex:479: Undefined control sequence.
+l.479 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -970,16 +816,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/atividaderelatorios.png, id=65, 723.45282pt x 491.58656pt>
+[16 <./img/atividademedicacao.png>]
+<img/atividaderelatorios.png, id=76, 723.45282pt x 491.58656pt>
 File: img/atividaderelatorios.png Graphic file (type png)
 <use img/atividaderelatorios.png>
-Package pdftex.def Info: img/atividaderelatorios.png  used on input line 490.
+Package pdftex.def Info: img/atividaderelatorios.png  used on input line 488.
 (pdftex.def)             Requested size: 433.62pt x 294.64667pt.
-./ApendiceIII.tex:492: Undefined control sequence.
-l.492 \floatfoot
+
+./ApendiceIII.tex:490: Undefined control sequence.
+l.490 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -987,16 +832,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/erdoboi.jpeg, id=66, 1263.72125pt x 627.34375pt>
+[17 <./img/atividaderelatorios.png>]
+<img/erdoboi.jpeg, id=81, 1263.72125pt x 627.34375pt>
 File: img/erdoboi.jpeg Graphic file (type jpg)
 <use img/erdoboi.jpeg>
-Package pdftex.def Info: img/erdoboi.jpeg  used on input line 503.
+Package pdftex.def Info: img/erdoboi.jpeg  used on input line 501.
 (pdftex.def)             Requested size: 433.62pt x 215.25641pt.
-./ApendiceIII.tex:505: Undefined control sequence.
-l.505 \floatfoot
+
+./ApendiceIII.tex:503: Undefined control sequence.
+l.503 \floatfoot
                 {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1004,41 +848,38 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[18 <./img/erdoboi.jpeg>] [19] (./ApendiceIII.bbl)
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[13] [14] (./ApendiceIII.bbl)
-
-./ApendiceIII.tex:580: LaTeX Error: \begin{titlepage} on input line 28 ended by \end{document}.
+./ApendiceIII.tex:578: LaTeX Error: \begin{titlepage} on input line 28 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.580 \end{document}
+l.578 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[15] [16 <./img/bovcontrolapp1.jpeg>] [17 <./img/bovcontrolapp2.jpeg>] [18 <./img/jetbov.png>] [19 <./img/jetbovapp1.jpeg>] [20 <./img/jetbovapp2.jpeg>] [21 <./img/a3pecuaria.png>] [22 <./img/a3pecuariaapp1.jpeg>] [23 <./img/a3pecuariaapp2.jpeg>] [24 <./img/casosdeuso.png> <./img/prototipos/login.png>] [25 <./img/prototipos/index.png> <./img/prototipos/animal.png>] [26 <./img/prototipos/remedio.png> <./img/prototipos/medicacao.png>] [27 <./img/prototipos/perfil.png> <./img/prototipos/editar.png>] [28 <./img/prototipos/peso.png>] [29 <./img/atividadeanimal.png>] [30 <./img/atividaderemedio.png>] [31 <./img/atividademedicacao.png>] [32 <./img/atividaderelatorios.png> <./img/erdoboi.jpeg>] (./ApendiceIII.aux) )
+[20] (./ApendiceIII.aux) )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 28 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3831 strings out of 492982
- 50944 string characters out of 6138580
- 149487 words of memory out of 5000000
- 7280 multiletter control sequences out of 15000+600000
+ 3801 strings out of 492982
+ 50210 string characters out of 6138580
+ 142487 words of memory out of 5000000
+ 7256 multiletter control sequences out of 15000+600000
  24513 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,14n,25p,670b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ApendiceIII.pdf (32 pages, 2416003 bytes).
+Output written on ApendiceIII.pdf (20 pages, 2137928 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
