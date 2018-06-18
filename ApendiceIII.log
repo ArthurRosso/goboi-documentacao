@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.6.1)  14 JUN 2018 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.6.1)  16 JUN 2018 01:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -576,12 +576,12 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 <img/bovcontrol.png, id=12, 1371.1225pt x 770.88pt>
 File: img/bovcontrol.png Graphic file (type png)
 <use img/bovcontrol.png>
-Package pdftex.def Info: img/bovcontrol.png  used on input line 113.
+Package pdftex.def Info: img/bovcontrol.png  used on input line 115.
 (pdftex.def)             Requested size: 433.62pt x 243.79303pt.
 
-./ApendiceIII.tex:115: Undefined control sequence.
-l.115 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:117: Undefined control sequence.
+l.117 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -595,12 +595,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <img/jetbov.png, id=16, 1371.1225pt x 770.88pt>
 File: img/jetbov.png Graphic file (type png)
 <use img/jetbov.png>
-Package pdftex.def Info: img/jetbov.png  used on input line 154.
+Package pdftex.def Info: img/jetbov.png  used on input line 158.
 (pdftex.def)             Requested size: 433.62pt x 243.79303pt.
 
-./ApendiceIII.tex:156: Undefined control sequence.
-l.156 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:160: Undefined control sequence.
+l.160 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -614,50 +614,50 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <img/a3pecuaria.png, id=23, 1371.1225pt x 770.88pt>
 File: img/a3pecuaria.png Graphic file (type png)
 <use img/a3pecuaria.png>
-Package pdftex.def Info: img/a3pecuaria.png  used on input line 195.
+Package pdftex.def Info: img/a3pecuaria.png  used on input line 201.
 (pdftex.def)             Requested size: 433.62pt x 243.79303pt.
 
-./ApendiceIII.tex:197: Undefined control sequence.
-l.197 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:203: Undefined control sequence.
+l.203 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 230.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 230.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 230.
 [6 <./img/a3pecuaria.png>]
 <img/casosdeuso.png, id=27, 793.46437pt x 521.69907pt>
 File: img/casosdeuso.png Graphic file (type png)
 <use img/casosdeuso.png>
-Package pdftex.def Info: img/casosdeuso.png  used on input line 228.
+Package pdftex.def Info: img/casosdeuso.png  used on input line 254.
 (pdftex.def)             Requested size: 433.62pt x 285.10446pt.
 
-./ApendiceIII.tex:230: Undefined control sequence.
-l.230 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:256: Undefined control sequence.
+l.256 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 238.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 238.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 238.
 [7 <./img/casosdeuso.png>] [8] [9]
 <img/prototipos/login.png, id=40, 1371.1225pt x 770.88pt>
 File: img/prototipos/login.png Graphic file (type png)
 <use img/prototipos/login.png>
-Package pdftex.def Info: img/prototipos/login.png  used on input line 345.
+Package pdftex.def Info: img/prototipos/login.png  used on input line 371.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:347: Undefined control sequence.
-l.347 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:373: Undefined control sequence.
+l.373 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -667,11 +667,11 @@ and I'll forget about whatever was undefined.
 <img/prototipos/index.png, id=41, 1371.1225pt x 770.88pt>
 File: img/prototipos/index.png Graphic file (type png)
 <use img/prototipos/index.png>
-Package pdftex.def Info: img/prototipos/index.png  used on input line 358.
+Package pdftex.def Info: img/prototipos/index.png  used on input line 384.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:360: Undefined control sequence.
-l.360 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:386: Undefined control sequence.
+l.386 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -682,12 +682,12 @@ and I'll forget about whatever was undefined.
 <img/prototipos/animal.png, id=45, 1371.1225pt x 770.88pt>
 File: img/prototipos/animal.png Graphic file (type png)
 <use img/prototipos/animal.png>
-Package pdftex.def Info: img/prototipos/animal.png  used on input line 372.
+Package pdftex.def Info: img/prototipos/animal.png  used on input line 398.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:374: Undefined control sequence.
-l.374 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:400: Undefined control sequence.
+l.400 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -697,11 +697,11 @@ and I'll forget about whatever was undefined.
 <img/prototipos/remedio.png, id=46, 1371.1225pt x 770.88pt>
 File: img/prototipos/remedio.png Graphic file (type png)
 <use img/prototipos/remedio.png>
-Package pdftex.def Info: img/prototipos/remedio.png  used on input line 385.
+Package pdftex.def Info: img/prototipos/remedio.png  used on input line 411.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:387: Undefined control sequence.
-l.387 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:413: Undefined control sequence.
+l.413 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -712,12 +712,12 @@ and I'll forget about whatever was undefined.
 <img/prototipos/medicacao.png, id=50, 1371.1225pt x 770.88pt>
 File: img/prototipos/medicacao.png Graphic file (type png)
 <use img/prototipos/medicacao.png>
-Package pdftex.def Info: img/prototipos/medicacao.png  used on input line 399.
+Package pdftex.def Info: img/prototipos/medicacao.png  used on input line 425.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:401: Undefined control sequence.
-l.401 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:427: Undefined control sequence.
+l.427 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -727,11 +727,11 @@ and I'll forget about whatever was undefined.
 <img/prototipos/perfil.png, id=51, 1371.1225pt x 770.88pt>
 File: img/prototipos/perfil.png Graphic file (type png)
 <use img/prototipos/perfil.png>
-Package pdftex.def Info: img/prototipos/perfil.png  used on input line 412.
+Package pdftex.def Info: img/prototipos/perfil.png  used on input line 438.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:414: Undefined control sequence.
-l.414 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:440: Undefined control sequence.
+l.440 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -742,12 +742,12 @@ and I'll forget about whatever was undefined.
 <img/prototipos/editar.png, id=55, 1371.1225pt x 770.88pt>
 File: img/prototipos/editar.png Graphic file (type png)
 <use img/prototipos/editar.png>
-Package pdftex.def Info: img/prototipos/editar.png  used on input line 426.
+Package pdftex.def Info: img/prototipos/editar.png  used on input line 452.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
 
-./ApendiceIII.tex:428: Undefined control sequence.
-l.428 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:454: Undefined control sequence.
+l.454 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -757,11 +757,11 @@ and I'll forget about whatever was undefined.
 <img/prototipos/peso.png, id=56, 1371.1225pt x 770.88pt>
 File: img/prototipos/peso.png Graphic file (type png)
 <use img/prototipos/peso.png>
-Package pdftex.def Info: img/prototipos/peso.png  used on input line 439.
+Package pdftex.def Info: img/prototipos/peso.png  used on input line 465.
 (pdftex.def)             Requested size: 369.88582pt x 207.95218pt.
-./ApendiceIII.tex:441: Undefined control sequence.
-l.441 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:467: Undefined control sequence.
+l.467 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -769,15 +769,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [13 <./img/prototipos/editar.png> <./img/prototipos/peso.png>]
-<img/atividadeanimal.png, id=61, 1590.69281pt x 1647.90656pt>
+<img/atividadeanimal.png, id=61, 1614.7828pt x 1675.00781pt>
 File: img/atividadeanimal.png Graphic file (type png)
 <use img/atividadeanimal.png>
-Package pdftex.def Info: img/atividadeanimal.png  used on input line 455.
-(pdftex.def)             Requested size: 433.62pt x 449.21536pt.
+Package pdftex.def Info: img/atividadeanimal.png  used on input line 483.
+(pdftex.def)             Requested size: 433.62pt x 449.77899pt.
 
-./ApendiceIII.tex:457: Undefined control sequence.
-l.457 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:485: Undefined control sequence.
+l.485 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -785,15 +785,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [14 <./img/atividadeanimal.png>]
-<img/atividaderemedio.png, id=66, 1181.16281pt x 989.19562pt>
+<img/atividaderemedio.png, id=66, 1043.39813pt x 1114.91531pt>
 File: img/atividaderemedio.png Graphic file (type png)
 <use img/atividaderemedio.png>
-Package pdftex.def Info: img/atividaderemedio.png  used on input line 466.
-(pdftex.def)             Requested size: 433.62pt x 363.1439pt.
+Package pdftex.def Info: img/atividaderemedio.png  used on input line 496.
+(pdftex.def)             Requested size: 433.62pt x 463.34471pt.
 
-./ApendiceIII.tex:468: Undefined control sequence.
-l.468 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:498: Undefined control sequence.
+l.498 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -801,15 +801,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [15 <./img/atividaderemedio.png>]
-<img/atividademedicacao.png, id=71, 1184.92688pt x 989.19562pt>
+<img/atividademedicacao.png, id=71, 1075.76906pt x 987.69pt>
 File: img/atividademedicacao.png Graphic file (type png)
 <use img/atividademedicacao.png>
-Package pdftex.def Info: img/atividademedicacao.png  used on input line 477.
-(pdftex.def)             Requested size: 433.62pt x 361.99677pt.
+Package pdftex.def Info: img/atividademedicacao.png  used on input line 509.
+(pdftex.def)             Requested size: 433.62pt x 398.11333pt.
 
-./ApendiceIII.tex:479: Undefined control sequence.
-l.479 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:511: Undefined control sequence.
+l.511 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -817,15 +817,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [16 <./img/atividademedicacao.png>]
-<img/atividaderelatorios.png, id=76, 723.45282pt x 491.58656pt>
+<img/atividaderelatorios.png, id=76, 554.07pt x 464.4853pt>
 File: img/atividaderelatorios.png Graphic file (type png)
 <use img/atividaderelatorios.png>
-Package pdftex.def Info: img/atividaderelatorios.png  used on input line 488.
-(pdftex.def)             Requested size: 433.62pt x 294.64667pt.
+Package pdftex.def Info: img/atividaderelatorios.png  used on input line 522.
+(pdftex.def)             Requested size: 433.62pt x 363.50903pt.
 
-./ApendiceIII.tex:490: Undefined control sequence.
-l.490 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:524: Undefined control sequence.
+l.524 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -836,12 +836,12 @@ and I'll forget about whatever was undefined.
 <img/erdoboi.jpeg, id=81, 1263.72125pt x 627.34375pt>
 File: img/erdoboi.jpeg Graphic file (type jpg)
 <use img/erdoboi.jpeg>
-Package pdftex.def Info: img/erdoboi.jpeg  used on input line 501.
+Package pdftex.def Info: img/erdoboi.jpeg  used on input line 537.
 (pdftex.def)             Requested size: 433.62pt x 215.25641pt.
 
-./ApendiceIII.tex:503: Undefined control sequence.
-l.503 \floatfoot
-                {Fonte: Autoria própria.}
+./ApendiceIII.tex:539: Undefined control sequence.
+l.539 			\floatfoot
+                   {Fonte: Autoria própria.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -850,14 +850,14 @@ and I'll forget about whatever was undefined.
 
 [18 <./img/erdoboi.jpeg>] [19] (./ApendiceIII.bbl)
 
-./ApendiceIII.tex:578: LaTeX Error: \begin{titlepage} on input line 28 ended by \end{document}.
+./ApendiceIII.tex:612: LaTeX Error: \begin{titlepage} on input line 28 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.578 \end{document}
-                    
+l.612 	\end{document}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -868,15 +868,15 @@ or  <return>  to continue without it.
 ### semi simple group (level 1) entered at line 28 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3801 strings out of 492982
- 50210 string characters out of 6138580
- 142487 words of memory out of 5000000
- 7256 multiletter control sequences out of 15000+600000
+ 3806 strings out of 492982
+ 50272 string characters out of 6138580
+ 142517 words of memory out of 5000000
+ 7261 multiletter control sequences out of 15000+600000
  24513 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,25p,670b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,25p,671b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ApendiceIII.pdf (20 pages, 2137928 bytes).
+Output written on ApendiceIII.pdf (20 pages, 1947724 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
