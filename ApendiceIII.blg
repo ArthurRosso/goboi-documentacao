@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2018/Arch Linux)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: ApendiceIII.aux
 The style file: abntex2-alf.bst
@@ -22,44 +22,44 @@ Reallocated glb_str_end (elt_size=8) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 7 entries,
+You've used 10 entries,
             6714 wiz_defined-function locations,
-            1227 strings with 9995 characters,
-and the built_in function-call counts, 8089 in all, are:
-= -- 1018
-> -- 107
-< -- 188
-+ -- 272
-- -- 35
-* -- 457
-:= -- 1091
-add.period$ -- 23
-call.type$ -- 7
-change.case$ -- 45
-chr.to.int$ -- 7
-cite$ -- 6
-duplicate$ -- 737
-empty$ -- 367
-format.name$ -- 162
-if$ -- 1632
+            1242 strings with 10298 characters,
+and the built_in function-call counts, 11397 in all, are:
+= -- 1384
+> -- 152
+< -- 266
++ -- 365
+- -- 50
+* -- 642
+:= -- 1511
+add.period$ -- 33
+call.type$ -- 10
+change.case$ -- 63
+chr.to.int$ -- 10
+cite$ -- 9
+duplicate$ -- 1071
+empty$ -- 550
+format.name$ -- 231
+if$ -- 2309
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 110
-newline$ -- 39
-num.names$ -- 30
-pop$ -- 161
+missing$ -- 164
+newline$ -- 52
+num.names$ -- 45
+pop$ -- 236
 preamble$ -- 1
-purify$ -- 22
+purify$ -- 31
 quote$ -- 0
-skip$ -- 840
+skip$ -- 1174
 stack$ -- 1
-substring$ -- 345
-swap$ -- 246
-text.length$ -- 4
+substring$ -- 474
+swap$ -- 361
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 42
+while$ -- 61
 width$ -- 0
-write$ -- 94
+write$ -- 136
