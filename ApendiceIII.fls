@@ -90,8 +90,14 @@ INPUT /usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-OUTPUT ApendiceIII.out
+INPUT ApendiceIII.out
+INPUT ApendiceIII.out
+INPUT ApendiceIII.out
+INPUT ApendiceIII.out
 OUTPUT ApendiceIII.pdf
+INPUT ./ApendiceIII.out
+INPUT ./ApendiceIII.out
+OUTPUT ApendiceIII.out
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty

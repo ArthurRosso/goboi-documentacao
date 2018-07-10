@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex ApendiceIII"] 1529453376 "ApendiceIII.aux" "ApendiceIII.bbl" "ApendiceIII" 1529453376
+["bibtex ApendiceIII"] 1529453376 "ApendiceIII.aux" "ApendiceIII.bbl" "ApendiceIII" 1530815935
   "/usr/share/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1525020694 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/share/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1525020694 60064 6469892b646cc99dbd8ecd5e965537d8 ""
-  "ApendiceIII.aux" 1529453373 8967 f85cb0a2b9e2453ddf74ed0140266fc7 ""
+  "ApendiceIII.aux" 1530815844 8967 f85cb0a2b9e2453ddf74ed0140266fc7 ""
   "ApendiceIII.bib" 1529450693 1535 ab97202ccb7c9323102c69fd4052ddf8 ""
   (generated)
   "ApendiceIII.bbl"
   "ApendiceIII.blg"
-["pdflatex"] 1529453371 "ApendiceIII.tex" "ApendiceIII.pdf" "ApendiceIII" 1529453376
+["pdflatex"] 1530815935 "ApendiceIII.tex" "ApendiceIII.pdf" "ApendiceIII" 1530815935
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1525040112 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1525040097 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1525040099 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -83,17 +83,17 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1525040116 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1529279889 356115 e98b73ce25ea0128b1da07b7f82618f6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1529279882 7906416 e67fe242dee0d9c4fa7a6d278d9afe8b ""
-  "ApendiceIII.aux" 1529453373 8967 f85cb0a2b9e2453ddf74ed0140266fc7 ""
+  "ApendiceIII.aux" 1530815844 8967 f85cb0a2b9e2453ddf74ed0140266fc7 ""
   "ApendiceIII.bbl" 1529453376 2111 03318139f84723178a8f0834160972d9 "bibtex ApendiceIII"
-  "ApendiceIII.out" 1529453373 2344 712d05ad754353d0b290fd6d637796c8 ""
-  "ApendiceIII.tex" 1529453371 28238 1f0323e67d63ab0caa5004468b792ca9 ""
+  "ApendiceIII.out" 1530815844 2344 712d05ad754353d0b290fd6d637796c8 ""
+  "ApendiceIII.tex" 1530815933 28262 1591afcd8331adfdc5172379ec19f6d9 ""
   "img/a3pecuaria.png" 1528813840 143261 8f5a276d39c427d03feaa57040c0fd9f ""
   "img/atividadeanimal.png" 1528998583 245047 e90db45f6ede18f5ae92acf9d9f165f3 ""
   "img/atividademedicacao.png" 1528999403 126210 92e1affafbfc1535b0b8b39221110236 ""
   "img/atividaderelatorios.png" 1528999490 21255 11348df7bbc92f20c17d925d8128f1e6 ""
   "img/atividaderemedio.png" 1528999383 117215 751a48fc89c70c639fa09f4db4cf4cc6 ""
   "img/bovcontrol.png" 1528814085 70154 3819926b7845c30f58a55367bd79e90d ""
-  "img/casosdeuso.png" 1528202770 41585 b6f0a51293ee97e2ed1c225101e5fa24 ""
+  "img/casosdeuso.png" 1530787224 26503 d8844dccf222e1ba9ebd2b6f9ccef19e ""
   "img/erdoboi.jpeg" 1527815184 160816 0ad518c43d7f86c32acefcb3afc126ee ""
   "img/jetbov.png" 1528813884 154329 a58549055d2e260146c6db6d25f23f24 ""
   "img/prototipos/animal.png" 1528202385 98078 796c602e89bd20bc756cf4d6c9a29b43 ""
@@ -105,7 +105,7 @@
   "img/prototipos/peso.png" 1528202413 57310 a15a81233f238b701ad8022e93286b99 ""
   "img/prototipos/remedio.png" 1528202390 55084 7ef212b96eaf34c21574008a648eb23b ""
   (generated)
+  "ApendiceIII.aux"
+  "ApendiceIII.pdf"
   "ApendiceIII.out"
   "ApendiceIII.log"
-  "ApendiceIII.pdf"
-  "ApendiceIII.aux"

@@ -64,7 +64,7 @@
 \subsection{Descrição do Problema}
 Uma análise do processo de criação de bovinos em uma propriedade rural, demonstra que o ciclo de vida do animal necessita de um acompanhamento rigoroso e contínuo. Os registros de informações relativas aos animais adquirem profunda relevância uma vez que a falta de informações pode ocasionar um descontrole sanitário.
 
-Segundo \citeonline{Marcelino16}, na bovinocultura brasileira, seja ela de corte ou de leite, devemos nos atentar para todos os fatores que possam prejudicar ou diminuir a produção do animal, como por exemplo, as doenças. Muitas  delas podem ser evitadas se os animais forem vacinados, por isso é importante que o produtor esteja sempre atento aos programas de vacinação adotados em cada região, levando em consideração a maneira mais adequada para tratar os animais, pois há vacinas que são aplicadas no rebanho todo, outras são aplicadas somente em certas categorias de animais, selecionando idade e até mesmo o sexo.
+Segundo \citeonline{Marcelino16}, na bovinocultura brasileira, seja ela de corte ou de leite, se deve atentar para todos os fatores que possam prejudicar ou diminuir a produção do animal, como por exemplo, as doenças. Muitas  delas podem ser evitadas se os animais forem vacinados, por isso é importante que o produtor esteja sempre atento aos programas de vacinação adotados em cada região, levando em consideração a maneira mais adequada para tratar os animais, pois há vacinas que são aplicadas no rebanho todo, outras são aplicadas somente em certas categorias de animais, selecionando idade e até mesmo o sexo.
 
 A problemática dos pecuaristas, que são o público alvo do presente trabalho, se dá no fato de que embora o registro individual dos animais seja fundamental por conter informações indispensáveis ao manejo do animal, não é essa uma prática habitual por se tratar de uma tarefa muitas vezes complicada, quando feita somente no papel, pois este registro pode ser perdido ou danificado.
 
@@ -85,7 +85,7 @@ Implementar um sistema web que visa gerenciar os animais de uma propriedade prop
 	\item Pesquisar as necessidades dos pecuaristas e de que maneira o sistema pode auxiliá-los;
 	\item Modelar o sistema;
 	\item Identificar as informações relevantes sobre o ciclo de vida do animal bovino;
-	\item Realizar pesquisas de sistemas relacionados para identificar pontos onde há um nicho de mercado inexplorado;
+	\item Realizar pesquisas de sistemas relacionados para identificar pontos onde há um nicho de mercado;
 	\item Implementar o sistema.
 	\item Realizar testes do sistema.
 	\item Avaliar o sistema na realidade dos pecuaristas.
@@ -101,7 +101,7 @@ Durante o levantamento de dados foram buscadas plataformas que trabalham de form
 
 BovControl é uma ferramenta de coleta e análise de dados provenientes da pecuária para melhorar a performance da produção de carne, leite ou genética \cite{bovcontrol10}. 
 
-É disponibilizado em forma de aplicativo e possui um plano gratuito, no qual é possível gerir um rebanho e faz os seguintes manejos nos animais: saída, lote, exame de toque, controle reprodutivo, idade da cria, idade do desmame, medicamento, origem, pesagem, perímetro escrotal, leite, teste diagnóstico, tipo de entrada, vacina, vermifugação. Também é possível visualizar seus dados em um dashboard\footnote{"Dashboards são são painéis que mostram métricas e indicadores importantes para alcançar objetivos e metas traçadas de forma visual, facilitando a compreensão das informações geradas." \cite{nascimento17}.}. na internet.
+É disponibilizado em forma de aplicativo e possui um plano gratuito, no qual é possível gerir um rebanho e faz os seguintes manejos nos animais: saída, lote, exame de toque, controle reprodutivo, idade da cria, idade do desmame, medicamento, origem, pesagem, perímetro escrotal, leite, teste diagnóstico, tipo de entrada, vacina, vermifugação. Também é possível visualizar seus dados em um dashboard\footnote{"Dashboards são painéis que mostram métricas e indicadores importantes para alcançar objetivos e metas traçadas de forma visual, facilitando a compreensão das informações geradas." \cite{nascimento17}.}. na internet.
 
 Possui uma parte de relatórios com apenas 2 gráficos, um do total de animais e do tipo de produção do animal (como leite, engorda e genética), e outro do total de animais e do gênero (macho ou fêmea). 
 
@@ -114,7 +114,7 @@ A Figura 1, é uma imagem mostrando a página inicial do sistema BovControl vers
 		\caption{Dashboard do BovControl}
 		\includegraphics[width=6in]{img/bovcontrol.png}
 
-		\floatfoot{Fonte: Autoria própria.}
+		\floatfoot{Fonte: Captura de tela do sistema BovControl.}
 	\end{center}
 \end{figure}
 
@@ -150,14 +150,14 @@ O sistema apresenta 2 versões, uma web e outra mobile, a mobile é simples cont
 
 A versão web é mais completa contendo um painel de dados da fazenda, com gráficos de animais por sexo, animais por lote, peso por lote e algumas informações como número total de animais da fazenda, peso total da fazenda. 
 
-A seguir, uma imagem mostrando a página inicial do sistema JetBov versão web.
+A Figura 2 apresenta uma imagem mostrando a página inicial do sistema JetBov versão web.
 
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página inicial da versão web do JetBov}
 		\includegraphics[width=6in]{img/jetbov.png}
 
-		\floatfoot{Fonte: Autoria própria.}
+		\floatfoot{Fonte: Captura de tela do sistema JetBov.}
 	\end{center}
 \end{figure}
 
@@ -200,7 +200,7 @@ A seguir, uma imagem mostrando a página inicial do sistema A3Pecuária versão 
 		\caption{Página inicial da versão web do A3Pecuária}
 		\includegraphics[width=6in]{img/a3pecuaria.png}
 
-		\floatfoot{Fonte: Autoria própria.}
+		\floatfoot{Fonte: Captura de tela do sistema A3Pecuária.}
 	\end{center}
 \end{figure}
 
@@ -224,7 +224,7 @@ A seguir, uma imagem mostrando a página inicial do sistema A3Pecuária versão 
 
 \subsection{Análise Comparativa dos Trabalhos Relacionados}
 
-A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusão: todas tem seu modo de operação semelhante, como criar, deletar, ler e editar as informações de um animal, e as opções de tratamento de gado (aqui chamado de manejo). As opções de estoque, que no presente sistema é trabalhado só com medicações e a visualização de relatórios são trabalhados de maneira parecida em todos os sistemas. Dessa maneira o presente sistema tem por objetivo trabalhar com estas mesmas operações, de maneira simples e sem custos.
+A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusão: todas tem seu modo de operação semelhante, como criar, deletar, ler e editar as informações de um animal, e as opções de tratamento de gado (aqui chamado de manejo). As opções de estoque, que no proposto sistema é trabalhado só com medicações e a visualização de relatórios são trabalhados de maneira parecida em todos os sistemas. Dessa maneira o presente sistema tem por objetivo trabalhar com estas mesmas operações, de maneira simples e sem custos.
 \begin{table}[th]
 	\begin{center}
 		\caption{Tabela da análise dos trabalhos relacionados}
@@ -234,8 +234,8 @@ A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusã
 			Gerenciamento de animais de uma propriedade & Sim & Sim & Sim & Sim \\  \hline
 			Gerenciamento de medicamentos de uma propriedade & Não & Não & Sim & Sim  \\ \hline
 			Gerenciamento de medicações de animais & Sim & Sim & Sim & Sim  \\ \hline
-			Visualização de relatóris gerais da propriedade & Sim & Sim & Sim & Sim  \\ \hline
-			Visualização de relatóris individuais de cada animal & Não & Não & Não & Sim  \\ \hline
+			Visualização de relatórios gerais da propriedade & Sim & Sim & Sim & Sim  \\ \hline
+			Visualização de relatórios individuais de cada animal & Não & Não & Não & Sim  \\ \hline
 			Versão gratuita & Sim & Não & Não & Sim  \\
 			\hline
 		\end{tabular}
@@ -398,7 +398,7 @@ Esta é a tela de login do sistema. Nela, o usuário pode se autenticar ou se re
 
 \subsubsection{IV002}
 
-Esta é a tela inicial do sistema. Nela, o usuário pode acionar os casos de uso de gerenciar Animal, gerenciar Remédio, ou Gerenciar Medicações, também é possível ir direto para a página de algum animal, desde que já tenham feito algum manejo com ele.
+A figura 5 é a tela inicial do sistema. Nela, o usuário pode acionar os casos de uso de gerenciar Animal, gerenciar Remédio, ou Gerenciar Medicações, também é possível ir direto para a página de algum animal, desde que já tenham feito algum manejo com ele.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página inicial do sistema}
@@ -412,7 +412,7 @@ Esta é a tela inicial do sistema. Nela, o usuário pode acionar os casos de uso
 \newpage
 \subsubsection{IV003}
 
-Esta é a página do animal. Nela, o usuário pode adicionar um animal, deletar um animal ou ir para a tela de perfil do animal.
+A figura 6 é a página do animal. Nela, o usuário pode adicionar um animal, deletar um animal ou ir para a tela de perfil do animal.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página do animal}
@@ -424,7 +424,7 @@ Esta é a página do animal. Nela, o usuário pode adicionar um animal, deletar 
 \end{figure}
 \subsubsection{IV004}
 
-Esta é a página do remédio. Nela, o usuário pode adicionar, deletar ou editar um remédio.
+A figura 7 é a página do remédio. Nela, o usuário pode adicionar, deletar ou editar um remédio.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página de remédios}
@@ -438,7 +438,7 @@ Esta é a página do remédio. Nela, o usuário pode adicionar, deletar ou edita
 \newpage
 \subsubsection{IV005}
 
-Esta é a página da medicação. Nela, o usuário pode adicionar, deletar ou editar uma medicação.
+A figura 8 é a página da medicação. Nela, o usuário pode adicionar, deletar ou editar uma medicação.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página de medicação}
@@ -451,7 +451,7 @@ Esta é a página da medicação. Nela, o usuário pode adicionar, deletar ou ed
 
 \subsubsection{IV006}
 
-Esta é a página de perfil do animal. Nela, o usuário pode editar, consultar detalhes ou gerenciar uma pesagem do animal.
+A figura 9 é a página de perfil do animal. Nela, o usuário pode editar, consultar detalhes ou gerenciar uma pesagem do animal.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página de perfil do animal}
@@ -465,7 +465,7 @@ Esta é a página de perfil do animal. Nela, o usuário pode editar, consultar d
 \newpage
 \subsubsection{IV007}
 
-Esta é a página de edição do animal. Nela o usuário pode editar as informações básicas do animal.
+A figura 10 é a página de edição do animal. Nela o usuário pode editar as informações básicas do animal.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página de edição do animal}
@@ -478,7 +478,7 @@ Esta é a página de edição do animal. Nela o usuário pode editar as informa�
 
 \subsubsection{IV008}
 
-Esta é a página de pesagem. Nela o usuário pode gerenciar o peso de um animal.
+A figura 11 é a página de pesagem. Nela o usuário pode gerenciar o peso de um animal.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página de pesagem do animal}
@@ -494,7 +494,7 @@ Esta é a página de pesagem. Nela o usuário pode gerenciar o peso de um animal
 
 \subsection{Diagramas de Atividade}
 
-O diagrama de atividade a seguir representa os passos para atingir os objetivos pertinentes ao gerenciamento do animal, é também o maior e mais complexo, pois possui a maior parte das interações com o sistema.
+O diagrama de atividade da figura 13, representa os passos para atingir os objetivos pertinentes ao gerenciamento do animal, é também o maior e mais complexo, pois possui a maior parte das interações com o sistema.
 
 \begin{figure}[!h]
 	\begin{center}
@@ -507,7 +507,7 @@ O diagrama de atividade a seguir representa os passos para atingir os objetivos 
 
 \newpage
 
-O diagrama a seguir descreve as interações do usuário com o sistema para gerenciar um remédio.
+O diagrama da figura 14, descreve as interações do usuário com o sistema para gerenciar um remédio.
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Diagrama da Atividade de Gerenciar Remédios}
@@ -519,7 +519,7 @@ O diagrama a seguir descreve as interações do usuário com o sistema para gere
 
 \newpage
 
-O diagrama a seguir descreve as interações do usuário com o sistema para gerenciar uma medicação.
+O diagrama da figura 15 descreve as interações do usuário com o sistema para gerenciar uma medicação.
 
 \begin{figure}[!h]
 	\begin{center}
@@ -532,7 +532,7 @@ O diagrama a seguir descreve as interações do usuário com o sistema para gere
 
 \newpage
 
-O diagrama a seguir mostra a atividade de visualizar os relatórios da propriedade rural.
+O diagrama da figura 16 mostra a atividade de visualizar os relatórios da propriedade rural.
 
 \begin{figure}[!h]
 	\begin{center}
@@ -547,7 +547,7 @@ O diagrama a seguir mostra a atividade de visualizar os relatórios da proprieda
 
 \subsection{Modelagem do Banco de Dados}
 
-O diagrama a seguir mostra a abstração do banco de dados representando a relação do animal com o usuário, com a foto, com o peso, com o propósito, com a raça, com o tipo, e com a remédio, na qual é chamada de medicação. Por sua vez, o remédio também tem uma relação além da medicação, que é o tipo.  
+O diagrama da figura 17 mostra a abstração do banco de dados representando a relação do animal com o usuário, com a foto, com o peso, com o propósito, com a raça, com o tipo, e com a remédio, na qual é chamada de medicação. Por sua vez, o remédio também tem uma relação além da medicação, que é o tipo.  
 
 \begin{figure}[!h]
 	\begin{center}
@@ -567,7 +567,7 @@ O diagrama a seguir mostra a abstração do banco de dados representando a rela�
 
 \subsubsection{Metodologia de pesquisa}
 
-Quanto a metodologia de pesquisa, optou-se pela abordagem qualitativa pois, "a pesquisa qualitativa não se preocupa com representatividade numérica, mas, sim, com o aprofundamento da compreensão de um grupo social, de uma organização, etc." \cite{ufrgs09}, dessa forma podemos nos aprofundar melhor e entender a realidade dos stakeholders. Possui natureza aplicada pois gerará conhecimentos destinados a solução de problemas específicos \cite{ufrgs09} .
+Quanto a metodologia de pesquisa, optou-se pela abordagem qualitativa pois, "a pesquisa qualitativa não se preocupa com representatividade numérica, mas, sim, com o aprofundamento da compreensão de um grupo social, de uma organização, etc." \cite{ufrgs09}, dessa forma pode-se nos aprofundar melhor e entender a realidade dos \emph{stakeholders}. Possui natureza aplicada pois gerará conhecimentos destinados a solução de problemas específicos \cite{ufrgs09} .
 
 Em relação ao procedimento foi adotado o estudo de caso, para \citeonline{yin01} este é uma investigação empírica que investiga um fenômeno contemporâneo dentro de seu contexto da vida real, especialmente quando os limites entre o fenômeno e o contexto não estão claramente definidos, esse foi o procedimento visto que o pesquisador analisou o caso de duas propriedades rurais localizadas no município de Caçapava do Sul e propôs uma solução de software para alguns dos problemas encontrados.
 
@@ -584,9 +584,11 @@ Também foi utilizado o diagrama de atividades, porque através dele é possíve
 \begin{itemize}
 	\item Golang: É uma linguagem de programação de código aberto que facilita a criação de software simples, confiável e eficiente. <https://golang.org>	
 	\item MariaDB: É um banco de dados de código aberto bastante conhecido, é um fork do MySQL. <https://mariadb.org/>
-	\item HTML: É uma linguagem de marcação de texto utilizada para desenvilver a estrutura de sites. <https://www.w3.org/html/>
-	\item CSS: É uma linguagem de folha de estilos, é util para decora as páginas html. <https://www.w3.org/Style/CSS/>
-	\item JavaScript: É uma linguagem de programação utilizada para rodar scripts no lado do cliente. <http://www.ecma-international.org/publications/standards/Stnindex.htm>
+	\item HTML: É uma linguagem de marcação de texto utilizada para desenvolver a estrutura de sites. <https://www.w3.org/html/>
+	\item CSS: É uma linguagem de folha de estilos, é util para decorar as páginas HTML. 
+<https://www.w3.org/Style/CSS/>
+	\item JavaScript: É uma linguagem de programação utilizada que executa scripts no lado do cliente. 
+<http://www.ecma-international.org/publications/standards/Stnindex.htm>
 	\item Materialize: Framework CSS que facilita as estilizações de páginas HTML. <https://materializecss.com/>
 \end{itemize}
 
