@@ -1,0 +1,58 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[A3Pecuaria 2016]{a3pecuaria16}
+\abntrefinfo{A3Pecuaria}{A3PECUARIA}{2016}
+{A3PECUARIA. \emph{Software para Gestão Pecuária.} 2016.
+Dispon{\'\i}vel em: $<$https://www.a3pecuaria.com.br/site/index.html$>$.}
+
+\bibitem[BovControl 2010]{bovcontrol10}
+\abntrefinfo{BovControl}{BOVCONTROL}{2010}
+{BOVCONTROL. \emph{Empoderando a Pecuária.} 2010.
+Dispon{\'\i}vel em: \url{https://www.bovcontrol.com/}.}
+
+\bibitem[Fowler 2014]{fowler14}
+\abntrefinfo{Fowler}{FOWLER}{2014}
+{FOWLER, M. \emph{UML Essencial: um breve guia para linguagem padrão}. [S.l.]:
+  Bookman Editora, 2014.}
+
+\bibitem[Gerhardt e Silveira 2009]{ufrgs09}
+\abntrefinfo{Gerhardt e Silveira}{GERHARDT; SILVEIRA}{2009}
+{GERHARDT, T.~E.; SILVEIRA, D.~T. Métodos de pesquisa.
+\emph{Série Educação a Distância - UAB/UFRGS}, 2009.
+Dispon{\'\i}vel em:
+  \url{http://www.ufrgs.br/cursopgdr/downloadsSerie/derad005.pdf}.}
+
+\bibitem[Guedes 2018]{guedes18}
+\abntrefinfo{Guedes}{GUEDES}{2018}
+{GUEDES, G.~T. \emph{UML 2 - Uma abordagem prática}. [S.l.]: Novatec Editora,
+  2018.}
+
+\bibitem[JetBov 2016]{jetbov16}
+\abntrefinfo{JetBov}{JETBOV}{2016}
+{JETBOV. \emph{Gestão para Pecuária de Corte.} 2016.
+Dispon{\'\i}vel em: \url{https://www.jetbov.com/}.}
+
+\bibitem[Marcelino 2016]{Marcelino16}
+\abntrefinfo{Marcelino}{MARCELINO}{2016}
+{MARCELINO, R. A importância da vacinação em bovinos.
+\emph{3rlab}, 2016.
+Dispon{\'\i}vel em:
+  \url{https://3rlab.wordpress.com/2016/05/06/a-importancia-da-vacinacao-de-bovinos/}.}
+
+\bibitem[Nascimento 2017]{nascimento17}
+\abntrefinfo{Nascimento}{NASCIMENTO}{2017}
+{NASCIMENTO, R. \emph{O que é um dashboard?} 2017.
+Dispon{\'\i}vel em:
+  \url{http://marketingpordados.com/analise-de-dados/o-que-e-dashboard-\%F0\%9F\%93\%8A/}.}
+
+\bibitem[Yin 2001]{yin01}
+\abntrefinfo{Yin}{YIN}{2001}
+{YIN, R.~K. \emph{Estudo de caso: planejamento e métodos}. [S.l.]: Sage
+  publications, 2001.}
+
+\end{thebibliography}

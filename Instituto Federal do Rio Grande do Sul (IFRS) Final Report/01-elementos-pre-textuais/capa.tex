@@ -1,0 +1,26 @@
+%
+% Documento: Capa
+%
+
+\makeatletter
+\begin{capa}
+	\thispagestyle{empty}%limpa estilo da pagina
+	\setlength{\baselineskip}{0.72\baselineskip}
+    \begin{center} %Alinhamento centralizado
+	
+
+    \expandafter\uppercase\expandafter{\imprimirinstituicao}\\
+    \expandafter\uppercase\expandafter{\imprimirdepartamento}\\
+    \expandafter\uppercase\expandafter{\imprimirprograma}\\
+	\vspace*{6cm}%Espaçamento entre linhas	
+	\small\expandafter\uppercase\expandafter{\imprimirnomeautor}\\
+	\vspace*{5cm}%Espaçamento entre linhas
+	\large\expandafter\textbf{\expandafter{\imprimirtitulotb}}\\
+	\vspace*{9.5cm}%%Espaçamento entre linhas
+	\small\expandafter\expandafter{\imprimirlocal},
+	\small\expandafter\expandafter{\imprimirdata}\\
+		
+		
+	\end{center} %Alinhamento centralizado
+\end{capa}
+\makeatother

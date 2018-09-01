@@ -1,0 +1,15 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Marcelino 2016]{Marcelino16}
+\abntrefinfo{Marcelino}{MARCELINO}{2016}
+{MARCELINO, R. A importância da vacinação em bovinos.
+\textbf{3rlab}, 2016.
+Dispon{\'\i}vel em:
+  \url{https://3rlab.wordpress.com/2016/05/06/a-importancia-da-vacinacao-de-bovinos/}.}
+
+\end{thebibliography}
