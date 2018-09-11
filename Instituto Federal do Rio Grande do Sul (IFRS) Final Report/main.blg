@@ -5,17 +5,16 @@ A level-1 auxiliary file: ./01-elementos-pre-textuais/capa.aux
 A level-1 auxiliary file: ./01-elementos-pre-textuais/epigrafe.aux
 A level-1 auxiliary file: ./01-elementos-pre-textuais/folhaRosto.aux
 A level-1 auxiliary file: ./01-elementos-pre-textuais/resumoPt.aux
-A level-1 auxiliary file: ./01-elementos-pre-textuais/resumoEn.aux
 A level-1 auxiliary file: ./01-elementos-pre-textuais/listaFiguras.aux
-A level-1 auxiliary file: ./01-elementos-pre-textuais/listaQuadros.aux
 A level-1 auxiliary file: ./01-elementos-pre-textuais/listaTabelas.aux
 A level-1 auxiliary file: ./01-elementos-pre-textuais/listaSiglas.aux
 A level-1 auxiliary file: ./02-elementos-textuais/introducao.aux
-A level-1 auxiliary file: ./02-elementos-textuais/disposicoes.aux
-A level-1 auxiliary file: ./02-elementos-textuais/estrutura.aux
-A level-1 auxiliary file: ./02-elementos-textuais/ilustracao.aux
-A level-1 auxiliary file: ./02-elementos-textuais/citacoes.aux
-A level-1 auxiliary file: ./02-elementos-textuais/tecnicaref.aux
+A level-1 auxiliary file: ./02-elementos-textuais/objetivos.aux
+A level-1 auxiliary file: ./02-elementos-textuais/metodologia.aux
+A level-1 auxiliary file: ./02-elementos-textuais/fundTeorica.aux
+A level-1 auxiliary file: ./02-elementos-textuais/trabsRelacionados.aux
+A level-1 auxiliary file: ./02-elementos-textuais/resultados.aux
+A level-1 auxiliary file: ./02-elementos-textuais/trabsFuturos.aux
 A level-1 auxiliary file: ./03-elementos-pos-textuais/referencias.aux
 A level-1 auxiliary file: ./03-elementos-pos-textuais/apendices.aux
 A level-1 auxiliary file: ./03-elementos-pos-textuais/anexos.aux
@@ -31,18 +30,6 @@ Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: refbase.bib
-Warning--I didn't find a database entry for "7.1.3-1"
-Warning--I didn't find a database entry for "NBR6023:2000"
-Warning--I didn't find a database entry for "NBR10520:1988"
-Warning--I didn't find a database entry for "7.3.2-2"
-Warning--I didn't find a database entry for "7.4.2.1-3"
-Warning--I didn't find a database entry for "7.4.2.1-2"
-Warning--I didn't find a database entry for "7.4.2.3-5"
-Warning--I didn't find a database entry for "7.4.2.1-4"
-Warning--I didn't find a database entry for "7.7.1.2-5"
-Warning--I didn't find a database entry for "7.7.1.2-2"
-Warning--I didn't find a database entry for "7.4.2.3-6"
-Warning--I didn't find a database entry for "8.1.1.5"
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -52,45 +39,44 @@ Reallocated glb_str_end (elt_size=8) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 5 entries,
+You've used 13 entries,
             6714 wiz_defined-function locations,
-            1240 strings with 10396 characters,
-and the built_in function-call counts, 3694 in all, are:
-= -- 494
-> -- 18
-< -- 81
-+ -- 133
-- -- 8
-* -- 177
-:= -- 478
-add.period$ -- 4
-call.type$ -- 6
-change.case$ -- 19
-chr.to.int$ -- 14
-cite$ -- 1
-duplicate$ -- 280
-empty$ -- 228
-format.name$ -- 23
-if$ -- 797
+            1264 strings with 11034 characters,
+and the built_in function-call counts, 12181 in all, are:
+= -- 1419
+> -- 155
+< -- 269
++ -- 368
+- -- 53
+* -- 669
+:= -- 1572
+add.period$ -- 33
+call.type$ -- 14
+change.case$ -- 72
+chr.to.int$ -- 22
+cite$ -- 9
+duplicate$ -- 1087
+empty$ -- 692
+format.name$ -- 231
+if$ -- 2548
 int.to.chr$ -- 3
 int.to.str$ -- 3
-missing$ -- 57
-newline$ -- 14
-num.names$ -- 5
-pop$ -- 58
+missing$ -- 195
+newline$ -- 52
+num.names$ -- 45
+pop$ -- 245
 preamble$ -- 1
-purify$ -- 15
+purify$ -- 40
 quote$ -- 0
-skip$ -- 494
+skip$ -- 1328
 stack$ -- 1
-substring$ -- 161
-swap$ -- 88
-text.length$ -- 1
+substring$ -- 489
+swap$ -- 364
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 9
+while$ -- 61
 width$ -- 0
-write$ -- 23
-(There were 12 warnings)
+write$ -- 136
