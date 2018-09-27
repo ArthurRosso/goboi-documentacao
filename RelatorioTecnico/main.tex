@@ -1,0 +1,76 @@
+\documentclass[oneside]{diretrizes}            % Imprimir apenas frente
+%\documentclass[doubleside]{diretrizes}        % Imprimir frente e verso
+
+% Importações de pacotes
+\usepackage[alf, abnt-emphasize=bf, recuo=0cm, abnt-etal-cite=2, abnt-etal-list=0]{abntex2cite}  % Citações padrão ABNT
+\usepackage[utf8]{inputenc}                         % Acentuação direta
+\usepackage[T1]{fontenc}                            % Codificação da fonte em 8 bits
+\usepackage{graphicx}                               % Inserir figuras
+\usepackage{amsfonts, amssymb, amsmath}             % Fonte e símbolos matemáticos
+\usepackage{booktabs}                               % Comandos para tabelas
+\usepackage{verbatim}                               % Texto é interpretado como escrito no documento
+\usepackage{multirow, array}                        % Múltiplas linhas e colunas em tabelas
+\usepackage{indentfirst}                             % Endenta o primeiro parágrafo de cada seção.
+\usepackage{microtype}                              % Para melhorias de justificação?
+\usepackage[algoruled, portuguese]{algorithm2e}     % Escrever algoritmos
+\usepackage{float}                                   % Utilizado para criação de floats
+\usepackage{times}                                  % Usa a fonte Times
+\linespread{1.5}                                    % Espaçamento entre linhas
+\usepackage{graphicx}                               % Adiciona Imagens
+\graphicspath{{img/}}                               % Pasta das imagens
+
+% Inclui o preâmbulo do documento
+\include{01-elementos-pre-textuais/preambulo}
+
+% Define as cores dos links e informações do PDF
+\makeatletter
+\hypersetup{
+    portuguese,
+    colorlinks,
+    linkcolor=black,
+    citecolor=black,
+    filecolor=black,
+    urlcolor=black,
+    breaklinks=true,
+    pdftitle={\@title},
+    pdfauthor={\@author},
+    pdfsubject={\imprimirpreambulo},
+    pdfkeywords={abnt, latex, abntex, abntex2}
+}
+\makeatother
+
+% Redefinição de labels
+\renewcommand{\algorithmautorefname}{Algoritmo}
+\def\equationautorefname~#1\null{Equa\c c\~ao~(#1)\null}
+
+% Cria o índice remissivo
+\makeindex
+
+% Início do documento
+\begin{document}
+
+    % Retira espaço extra obsoleto entre as frases.
+    \frenchspacing
+
+    % Elementos pré textuais
+    \pretextual
+    \include{./01-elementos-pre-textuais/capa}               % Capa
+    \include{./01-elementos-pre-textuais/resumoPt}           % Resumo na língua vernácula
+    \sumario
+
+    % Elementos textuais
+    \textual
+    \include{./02-elementos-textuais/introducao}             % Introdução
+    \include{./02-elementos-textuais/objetivos}              % Objetivos
+    \include{./02-elementos-textuais/metodologia}            % Metodologia
+    \include{./02-elementos-textuais/trabsRelacionados}      % Trabalhos Relacionados
+    \include{./02-elementos-textuais/tecnologias}            % Tecnologias utilizadas
+    \include{./02-elementos-textuais/descSolucao}            % Descrição da Solução
+    \include{./02-elementos-textuais/resultados}             % Resultados
+
+    % Elementos pós textuais
+    \postextual
+    \include{./03-elementos-pos-textuais/referencias}        % Referências
+    %\printindex                                             % Índice remissivo
+
+\end{document}
