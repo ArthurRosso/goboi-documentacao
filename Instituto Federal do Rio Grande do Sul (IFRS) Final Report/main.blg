@@ -12,7 +12,6 @@ A level-1 auxiliary file: ./02-elementos-textuais/introducao.aux
 A level-1 auxiliary file: ./02-elementos-textuais/objetivos.aux
 A level-1 auxiliary file: ./02-elementos-textuais/metodologia.aux
 A level-1 auxiliary file: ./02-elementos-textuais/fundTeorica.aux
-A level-1 auxiliary file: ./02-elementos-textuais/tecnologias.aux
 A level-1 auxiliary file: ./02-elementos-textuais/descSolucao.aux
 A level-1 auxiliary file: ./02-elementos-textuais/resultados.aux
 A level-1 auxiliary file: ./02-elementos-textuais/trabsFuturos.aux
@@ -42,7 +41,7 @@ Reallocated glb_str_end (elt_size=8) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 13 entries,
             6714 wiz_defined-function locations,
-            1265 strings with 11067 characters,
+            1264 strings with 11028 characters,
 and the built_in function-call counts, 12181 in all, are:
 = -- 1419
 > -- 155
