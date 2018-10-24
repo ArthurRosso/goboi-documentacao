@@ -6,7 +6,7 @@
 
 \chapter{\textbf{FUNDAMENTAÇÃO TEÓRICA}}\label{chap:fundTeorica}
 
-Le présent travail propose de développer un système web, qui vise à gérer les animaux, fournissant ainsi un contrôle des médicaments, ainsi que l'application d'un contrôle du poids.
+Para melhor compreensão da maneira como o sistema foi desenvolvido, se faz necessário abordar os principais trabalhos relacionados, que de alguma forma contribuíram para algum atributo ou método do presente trabalho, também se faz importante conhecer as tecnologias utilizadas.
 
 \section{TRABALHOS RELACIONADOS}
 
@@ -28,7 +28,7 @@ A Figura 1, é uma imagem mostrando a página inicial do sistema BovControl vers
 \begin{figure}[H]
 	\begin{center}
 		\caption{Dashboard do BovControl}
-		\includegraphics[width=6in]{../img/bovcontrol.png}
+		\includegraphics[width=\textwidth]{../img/bovcontrol.png}
 
 		Fonte: Captura de tela do sistema BovControl.
 	\end{center}
@@ -69,7 +69,7 @@ A Figura 2 apresenta uma imagem mostrando a página inicial do sistema JetBov ve
 \begin{figure}[H]
 	\begin{center}
 		\caption{Página inicial da versão web do JetBov}
-		\includegraphics[width=6in]{../img/jetbov.png}
+		\includegraphics[width=\textwidth]{../img/jetbov.png}
 
 		Fonte: Captura de tela do sistema JetBov.
 	\end{center}
@@ -109,7 +109,7 @@ A seguir, uma imagem mostrando a página inicial do sistema A3Pecuária versão 
 \begin{figure}[!h]
 	\begin{center}
 		\caption{Página inicial da versão web do A3Pecuária}
-		\includegraphics[width=6in]{../img/a3pecuaria.png}
+		\includegraphics[width=\textwidth]{../img/a3pecuaria.png}
 
 		Fonte: Captura de tela do sistema A3Pecuária.
 	\end{center}
@@ -135,7 +135,9 @@ A seguir, uma imagem mostrando a página inicial do sistema A3Pecuária versão 
 
 \subsection{ANÁLISE COMPARATIVA DOS TRABALHOS RELACIONADOS}
 
-A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusão: todas tem seu modo de operação semelhante, como criar, deletar, ler e editar as informações de um animal, e as opções de tratamento de gado (aqui chamado de manejo). As opções de estoque, que no proposto sistema é trabalhado só com medicações e a visualização de relatórios são trabalhados de maneira parecida em todos os sistemas. Dessa maneira o presente sistema tem por objetivo trabalhar com estas mesmas operações, de maneira simples e sem custos.
+A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusão: todas tem seu modo de operação semelhante, como criar, deletar, ler e editar as informações de um animal, e as opções de tratamento de gado (aqui chamado de manejo). As opções de estoque, que no proposto sistema é trabalhado só com medicações e a visualização de relatórios são trabalhados de maneira parecida em todos os sistemas. Dessa maneira o presente sistema tem por objetivo trabalhar com estas mesmas operações, de maneira simples e sem custos. Logo, o presente trabalho oferece a possibilidade de exportar as inforações da propriedade para excel, a visualização de relatórios individuais de cada animal, além de ser gratuito.
+
+
 \begin{table}[H]
 	\begin{center}
 		\caption{Tabela da análise dos trabalhos relacionados}
@@ -147,6 +149,7 @@ A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusã
 			Gerenciamento de medicações de animais & Sim & Sim & Sim & Sim  \\ \hline
 			Visualização de relatórios gerais da propriedade & Sim & Sim & Sim & Sim  \\ \hline
 			Visualização de relatórios individuais de cada animal & Não & Não & Não & Sim  \\ \hline
+			Possibilidade de exportar para excel & Não & Não & Não & Sim  \\ \hline
 			Versão gratuita & Sim & Não & Não & Sim  \\
 			\hline
 		\end{tabular}
@@ -157,10 +160,30 @@ A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusã
 
 \section{TECNOLOGIAS UTILIZADAS}
 
-Esta seção tratará as tecnologias que foram utilizadas na produção do presente trabalho.
+Esta seção tratará as tecnologias que foram utilizadas na produção do presente trabalho. Bem como os motivos de suas escolhas.
 
-A linguagem utilizada no \textit{back-end} é Go, uma linguagem de programação de código aberto que facilita a criação de software simples, bastante adequada para um TCC.
+\subsection{Go}
 
-Foi utilizado o banco de dados MariaDB, trata-se de um banco de dados de código aberto bastante conhecido, é um \textit{fork} do MySQL.
+A linguagem utilizada no \textit{back-end} é Go, uma linguagem de programação de código aberto que facilita a criação de software simples, bastante adequada para pequenos e médios projetos.
+
+Sua utilização se justifica pela facilidade de realizar os CRUD (são as quatro operações básicas utilizadas em dados ou em bases de dados relacionais); baixa abstração o que deixa o ritmo de produção de código rápido uma vez que não é necessário pesquisar o que cada método é responsável; métodos precisos para as necessidades do problema.
+
+\subsection{MariaDB e PostgreSQL}
+
+Foi utilizado 2 SGBD no projeto, um local na máquina do pesquisador, o MariaDB, trata-se de um SGBD de código aberto bastante conhecido, é um \textit{fork} do MySQL, e outro para o \textit{host} remoto, para que funcione no heroku, o PostgreSQL, o "PostgreSQL é um sistema de gerenciamento de banco de dados objeto-relacional (SGBDOR) baseado no POSTGRES Versão 4.2 desenvolvido pelo Departamento de Ciência da Computação da Universidade da Califórnia em Berkeley."  \cite{postgres07}.
+
+\subsection{HTML, CSS e JS}
 
 Para a construção do \textit{front-end} foi utilizada a linguagem de marcação HTML que providencia a estrutura da página, para os estilos CSS. JavaScript, que é uma linguagem de programação que executa scripts no lado do cliente também foi utilizada. Também se utilizou o framework Materialize, como um facilitador da estilização das páginas HTML, assim foi possível deixa-las responsivas.
+
+\subsection{Mustache}
+
+Como \textit{template engine} foi utilizado o Mustache, com ele é possível mostrar nas páginas do navegador o conteúdo do banco de dados. Pelo fato de não utilizar lógica, todas as regras de negócio ficam restritas a linguagem do servidor.
+
+\subsection{GORM}
+
+GORM é uma biblioteca ORM para Go, ele torna desnessessária a manipulação de código SQL diretamente, facilitando assim o trânsito entre diferentes SGBD. Ele também torna o projeto mais seguro, uma vez que o deixa imune a \textit{SQL Injection}.
+
+\subsection{Gorilla web toolkit}
+
+Gorilla é um conjunto de pacotes para desenvolver em Go para web, entre elas as usadas foram o gorilla/mux que providencia um sofisticado acesso a rotas com váriaveis e \textit{middleware}. Outro pacote utilizado foi o gorilla/session para a manipulação das sessões, e utilizando as \textit{flashes}.
