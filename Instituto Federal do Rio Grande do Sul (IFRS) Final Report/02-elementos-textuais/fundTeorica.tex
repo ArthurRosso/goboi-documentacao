@@ -13,7 +13,7 @@ Para melhor compreensão da maneira como o sistema foi desenvolvido, se faz nece
 
 Durante o levantamento de dados foram buscadas plataformas que trabalham de forma semelhante ao presente sistema, como por exemplo o BovControl, o JetBov e o A3Pecuária, que serão apresentadas a seguir.
 
-\subsection{BOVCONTROL}
+\subsection{\textbf{BovControl}}
 
 BovControl é uma ferramenta de coleta e análise de dados provenientes da pecuária para melhorar a performance da produção de carne, leite ou genética \cite{bovcontrol10}.
 
@@ -54,7 +54,7 @@ A Figura 1, é uma imagem mostrando a página inicial do sistema BovControl vers
 %\end{figure}
 
 
-\subsection{JETBOV}
+\subsection{\textbf{JetBov}}
 
 Segundo \citeonline{jetbov16}, esse é um sistema que tem como objetivo a gestão da fazenda, da cria até a terminação, a pasto, no semi-confinamento ou confinamento, com um controle de custos com o propósito de aumento da rentabilidade.
 
@@ -93,7 +93,7 @@ A Figura 2 apresenta uma imagem mostrando a página inicial do sistema JetBov ve
 %\end{center}
 %\end{figure}
 
-\subsection{A3PECUÁRIA}
+\subsection{\textbf{A3Pecuária}}
 
 A3Pecuária é um software para gestão de animais com controle de reprodução, pesagens, vacinas e exames, controle financeiro e de estoque e compra e venda. Segundo o site do fabricante: "fornecemos importantes informações de análise de seu rebanho de maneira simples e com uma interface muito fácil de aprender, permitindo gerir seu investimento de forma a aumentar a lucratividade"  \cite{a3pecuaria16}.
 
@@ -162,28 +162,28 @@ A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusã
 
 Esta seção tratará as tecnologias que foram utilizadas na produção do presente trabalho. Bem como os motivos de suas escolhas.
 
-\subsection{Go}
+\subsection{\textbf{Go}}
 
 A linguagem utilizada no \textit{back-end} é Go, uma linguagem de programação de código aberto que facilita a criação de software simples, bastante adequada para pequenos e médios projetos.
 
 Sua utilização se justifica pela facilidade de realizar os CRUD (são as quatro operações básicas utilizadas em dados ou em bases de dados relacionais); baixa abstração o que deixa o ritmo de produção de código rápido uma vez que não é necessário pesquisar o que cada método é responsável; métodos precisos para as necessidades do problema.
 
-\subsection{MariaDB e PostgreSQL}
+\subsection{\textbf{MariaDB e PostgreSQL}}
 
 Foi utilizado 2 SGBD no projeto, um local na máquina do pesquisador, o MariaDB, trata-se de um SGBD de código aberto bastante conhecido, é um \textit{fork} do MySQL, e outro para o \textit{host} remoto, para que funcione no heroku, o PostgreSQL, o "PostgreSQL é um sistema de gerenciamento de banco de dados objeto-relacional (SGBDOR) baseado no POSTGRES Versão 4.2 desenvolvido pelo Departamento de Ciência da Computação da Universidade da Califórnia em Berkeley."  \cite{postgres07}.
 
-\subsection{HTML, CSS e JS}
+\subsection{\textbf{HTML, CSS e JS}}
 
 Para a construção do \textit{front-end} foi utilizada a linguagem de marcação HTML que providencia a estrutura da página, para os estilos CSS. JavaScript, que é uma linguagem de programação que executa scripts no lado do cliente também foi utilizada. Também se utilizou o framework Materialize, como um facilitador da estilização das páginas HTML, assim foi possível deixa-las responsivas.
 
-\subsection{Mustache}
+\subsection{\textbf{Mustache}}
 
 Como \textit{template engine} foi utilizado o Mustache, com ele é possível mostrar nas páginas do navegador o conteúdo do banco de dados. Pelo fato de não utilizar lógica, todas as regras de negócio ficam restritas a linguagem do servidor.
 
-\subsection{GORM}
+\subsection{\textbf{GORM}}
 
 GORM é uma biblioteca ORM para Go, ele torna desnessessária a manipulação de código SQL diretamente, facilitando assim o trânsito entre diferentes SGBD. Ele também torna o projeto mais seguro, uma vez que o deixa imune a \textit{SQL Injection}.
 
-\subsection{Gorilla web toolkit}
+\subsection{\textbf{Gorilla web toolkit}}
 
 Gorilla é um conjunto de pacotes para desenvolver em Go para web, entre elas as usadas foram o gorilla/mux que providencia um sofisticado acesso a rotas com váriaveis e \textit{middleware}. Outro pacote utilizado foi o gorilla/session para a manipulação das sessões, e utilizando as \textit{flashes}.
