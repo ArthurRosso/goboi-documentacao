@@ -133,7 +133,7 @@ A seguir, uma imagem mostrando a página inicial do sistema A3Pecuária versão 
 %\end{center}
 %\end{figure}
 
-\subsection{ANÁLISE COMPARATIVA DOS TRABALHOS RELACIONADOS}
+\subsection{\textbf{Análise Comparativa dos Trabalhos Relacionados}}
 
 A partir da análise feita nas plataformas, pode-se chegar na seguinte conclusão: todas tem seu modo de operação semelhante, como criar, deletar, ler e editar as informações de um animal, e as opções de tratamento de gado (aqui chamado de manejo). As opções de estoque, que no proposto sistema é trabalhado só com medicações e a visualização de relatórios são trabalhados de maneira parecida em todos os sistemas também. Dessa maneira o sistema tem por objetivo trabalhar com estas mesmas operações, de maneira simples e sem custos.
 
@@ -166,11 +166,11 @@ Esta seção tratará as tecnologias que foram utilizadas na produção do prese
 
 A linguagem utilizada no \textit{back-end} é Go, uma linguagem de programação de código aberto que facilita a criação de software simples, bastante adequada para pequenos e médios projetos.
 
-Sua utilização se justifica pela facilidade de realizar os CRUD (são as quatro operações básicas utilizadas em dados ou em bases de dados relacionais); baixa abstração o que deixa o ritmo de produção de código rápido uma vez que não é necessário pesquisar o que cada método é responsável; métodos precisos para as necessidades do problema.
+Sua utilização se justifica pela facilidade de realizar os CRUD (\textit{Create, Read, Update e Delete} são as quatro operações básicas utilizadas em dados ou em bases de dados relacionais); baixa abstração o que deixa o ritmo de produção de código rápido uma vez que não é necessário pesquisar o que cada método é responsável; métodos precisos para as necessidades do problema.
 
 \subsection{\textbf{MariaDB e PostgreSQL}}
 
-Foi utilizado 2 SGBD no projeto, um local na máquina do pesquisador, o MariaDB, trata-se de um SGBD de código aberto bastante conhecido, é um \textit{fork} do MySQL, e outro para o \textit{host} remoto, para que funcione no heroku, o PostgreSQL, o "PostgreSQL é um sistema de gerenciamento de banco de dados objeto-relacional (SGBDOR) baseado no POSTGRES Versão 4.2 desenvolvido pelo Departamento de Ciência da Computação da Universidade da Califórnia em Berkeley."  \cite{postgres07}.
+Foram utilizados dois Sistemas Gerenciadores de Banco de Dados (SGBD) no projeto, um local na máquina do pesquisador, o MariaDB, trata-se de um SGBD de código aberto bastante conhecido, é um \textit{fork} do MySQL, e outro para o \textit{host} remoto, para que funcione no heroku, o PostgreSQL, o "PostgreSQL é um sistema de gerenciamento de banco de dados objeto-relacional (SGBDOR) baseado no POSTGRES Versão 4.2 desenvolvido pelo Departamento de Ciência da Computação da Universidade da Califórnia em Berkeley."  \cite{postgres07}.
 
 \subsection{\textbf{HTML, CSS e JS}}
 
@@ -182,7 +182,7 @@ Como \textit{template engine} foi utilizado o Mustache, com ele é possível mos
 
 \subsection{\textbf{GORM}}
 
-GORM é uma biblioteca ORM para Go, ele torna desnessessária a manipulação de código SQL diretamente, facilitando assim o trânsito entre diferentes SGBD. Ele também torna o projeto mais seguro, uma vez que o deixa imune a \textit{SQL Injection}.
+GORM é uma biblioteca Mapeamento Objeto Relacional (ORM) para Go, ele torna desnessessária a manipulação de código de Linguagem de Consulta Estruturada (SQL) diretamente, facilitando assim o trânsito entre diferentes SGBD. Ele também torna o projeto mais seguro, uma vez que o deixa imune a \textit{SQL Injection}.
 
 \subsection{\textbf{Gorilla web toolkit}}
 

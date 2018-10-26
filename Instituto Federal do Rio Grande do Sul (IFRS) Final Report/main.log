@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.8)  25 OCT 2018 10:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.8)  25 OCT 2018 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1035,7 +1035,7 @@ l.70 ...include{./02-elementos-textuais/objetivos}
 
 
 (./02-elementos-textuais/fundTeorica.tex
-<../img/bovcontrol.png, id=199, 1371.1225pt x 770.88pt>
+<../img/bovcontrol.png, id=201, 1371.1225pt x 770.88pt>
 File: ../img/bovcontrol.png Graphic file (type png)
 <use ../img/bovcontrol.png>
 Package pdftex.def Info: ../img/bovcontrol.png  used on input line 31.
@@ -1052,7 +1052,7 @@ Package pdftex.def Info: ../img/bovcontrol.png  used on input line 31.
 l.67 A
        Figura 2 apresenta uma imagem mostrando a página inicial do sistema ...
  <../img/bovcontrol.png>]
-<../img/jetbov.png, id=215, 1371.1225pt x 770.88pt>
+<../img/jetbov.png, id=217, 1371.1225pt x 770.88pt>
 File: ../img/jetbov.png Graphic file (type png)
 <use ../img/jetbov.png>
 Package pdftex.def Info: ../img/jetbov.png  used on input line 72.
@@ -1065,7 +1065,7 @@ Package pdftex.def Info: ../img/jetbov.png  used on input line 72.
 l.104 A
         versão web, por ser mais robusta e completa, apresenta uma série d...
  <../img/jetbov.png>]
-<../img/a3pecuaria.png, id=225, 1371.1225pt x 770.88pt>
+<../img/a3pecuaria.png, id=227, 1371.1225pt x 770.88pt>
 File: ../img/a3pecuaria.png Graphic file (type png)
 <use ../img/a3pecuaria.png>
 Package pdftex.def Info: ../img/a3pecuaria.png  used on input line 112.
@@ -1091,7 +1091,7 @@ l.174
 \openout2 = `./02-elementos-textuais/descSolucao.aux'.
 
  (./02-elementos-textuais/descSolucao.tex
-<../img/casosdeuso.png, id=241, 497.60907pt x 319.94531pt>
+<../img/casosdeuso.png, id=243, 497.60907pt x 319.94531pt>
 File: ../img/casosdeuso.png Graphic file (type png)
 <use ../img/casosdeuso.png>
 Package pdftex.def Info: ../img/casosdeuso.png  used on input line 18.
@@ -1107,12 +1107,12 @@ has been already used, duplicate ignored
                                                   \fi \fi 
 l.28 \subsection
                 {\textbf{Telas do Sistema}} <../img/casosdeuso.png>]
-<../img/prototipos/login.png, id=249, 1371.1225pt x 770.88pt>
+<../img/prototipos/login.png, id=251, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/login.png Graphic file (type png)
 <use ../img/prototipos/login.png>
 Package pdftex.def Info: ../img/prototipos/login.png  used on input line 37.
 (pdftex.def)             Requested size: 455.0pt x 255.81447pt.
-<../img/prototipos/index.png, id=250, 1371.1225pt x 770.88pt>
+<../img/prototipos/index.png, id=252, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/index.png Graphic file (type png)
 <use ../img/prototipos/index.png>
 Package pdftex.def Info: ../img/prototipos/index.png  used on input line 49.
@@ -1124,7 +1124,7 @@ Package pdftex.def Info: ../img/prototipos/index.png  used on input line 49.
                                                   \fi \fi 
 l.54 
       <../img/prototipos/login.png>]
-<../img/prototipos/listaAnimal.png, id=255, 1371.1225pt x 770.88pt>
+<../img/prototipos/listaAnimal.png, id=257, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/listaAnimal.png Graphic file (type png)
 <use ../img/prototipos/listaAnimal.png>
 Package pdftex.def Info: ../img/prototipos/listaAnimal.png  used on input line 
@@ -1137,7 +1137,7 @@ Package pdftex.def Info: ../img/prototipos/listaAnimal.png  used on input line
                                                   \fi \fi 
 l.66 
       <../img/prototipos/index.png>]
-<../img/prototipos/addAnimal.png, id=260, 1371.1225pt x 770.88pt>
+<../img/prototipos/addAnimal.png, id=262, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/addAnimal.png Graphic file (type png)
 <use ../img/prototipos/addAnimal.png>
 Package pdftex.def Info: ../img/prototipos/addAnimal.png  used on input line 73
@@ -1158,13 +1158,13 @@ has been already used, duplicate ignored
 l.82 A
        figura 9 é a página de lista de remédios. Nela, o usuário pode ad...
  <../img/prototipos/listaAnimal.png> <../img/prototipos/addAnimal.png>]
-<../img/prototipos/listaRemedio.png, id=265, 1371.1225pt x 770.88pt>
+<../img/prototipos/listaRemedio.png, id=267, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/listaRemedio.png Graphic file (type png)
 <use ../img/prototipos/listaRemedio.png>
 Package pdftex.def Info: ../img/prototipos/listaRemedio.png  used on input line
  86.
 (pdftex.def)             Requested size: 455.0pt x 255.81447pt.
-<../img/prototipos/addRemedio.png, id=266, 1371.1225pt x 770.88pt>
+<../img/prototipos/addRemedio.png, id=268, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/addRemedio.png Graphic file (type png)
 <use ../img/prototipos/addRemedio.png>
 Package pdftex.def Info: ../img/prototipos/addRemedio.png  used on input line 9
@@ -1178,7 +1178,7 @@ Package pdftex.def Info: ../img/prototipos/addRemedio.png  used on input line 9
                                                   \fi \fi 
 l.103 
        <../img/prototipos/listaRemedio.png>]
-<../img/prototipos/listaMedicacao.png, id=271, 1371.1225pt x 770.88pt>
+<../img/prototipos/listaMedicacao.png, id=273, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/listaMedicacao.png Graphic file (type png)
 <use ../img/prototipos/listaMedicacao.png>
 Package pdftex.def Info: ../img/prototipos/listaMedicacao.png  used on input li
@@ -1191,7 +1191,7 @@ ne 111.
                                                   \fi \fi 
 l.116 
        <../img/prototipos/addRemedio.png>]
-<../img/prototipos/addMedicacao.png, id=276, 1371.1225pt x 770.88pt>
+<../img/prototipos/addMedicacao.png, id=278, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/addMedicacao.png Graphic file (type png)
 <use ../img/prototipos/addMedicacao.png>
 Package pdftex.def Info: ../img/prototipos/addMedicacao.png  used on input line
@@ -1212,7 +1212,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.12})
 l.131 A
         figura 13 é a página de perfil do animal. Nela, o usuário pode ed...
  <../img/prototipos/listaMedicacao.png> <../img/prototipos/addMedicacao.png>]
-<../img/prototipos/perfil.png, id=283, 1371.1225pt x 770.88pt>
+<../img/prototipos/perfil.png, id=285, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/perfil.png Graphic file (type png)
 <use ../img/prototipos/perfil.png>
 Package pdftex.def Info: ../img/prototipos/perfil.png  used on input line 135.
@@ -1222,7 +1222,7 @@ Package pdftex.def Info: ../img/prototipos/perfil.png  used on input line 135.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 145.
 
-<../img/prototipos/editar.png, id=284, 1371.1225pt x 770.88pt>
+<../img/prototipos/editar.png, id=286, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/editar.png Graphic file (type png)
 <use ../img/prototipos/editar.png>
 Package pdftex.def Info: ../img/prototipos/editar.png  used on input line 148.
@@ -1234,7 +1234,7 @@ Package pdftex.def Info: ../img/prototipos/editar.png  used on input line 148.
                                                   \fi \fi 
 l.154 \newpage
                <../img/prototipos/perfil.png>]
-<../img/prototipos/addPeso.png, id=289, 1371.1225pt x 770.88pt>
+<../img/prototipos/addPeso.png, id=291, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/addPeso.png Graphic file (type png)
 <use ../img/prototipos/addPeso.png>
 Package pdftex.def Info: ../img/prototipos/addPeso.png  used on input line 161.
@@ -1255,16 +1255,16 @@ lready used, duplicate ignored
 l.169 A
         figura 16 é a página de relatórios individuais do animal. <../img/pr
 ototipos/editar.png> <../img/prototipos/addPeso.png>]
-<../img/prototipos/relatorio.png, id=294, 1371.1225pt x 770.88pt>
+<../img/prototipos/relatorio.png, id=296, 1371.1225pt x 770.88pt>
 File: ../img/prototipos/relatorio.png Graphic file (type png)
 <use ../img/prototipos/relatorio.png>
 Package pdftex.def Info: ../img/prototipos/relatorio.png  used on input line 17
 3.
 (pdftex.def)             Requested size: 455.0pt x 255.81447pt.
-<../img/erdoboi.jpg, id=295, 1105.12875pt x 671.50874pt>
+<../img/erdoboi.jpg, id=297, 1105.12875pt x 671.50874pt>
 File: ../img/erdoboi.jpg Graphic file (type jpg)
 <use ../img/erdoboi.jpg>
-Package pdftex.def Info: ../img/erdoboi.jpg  used on input line 191.
+Package pdftex.def Info: ../img/erdoboi.jpg  used on input line 188.
 (pdftex.def)             Requested size: 455.0pt x 276.46796pt.
 ) [25pdfTeX warning (ext4): destination with the same identifier (name{figure.3
 .16}) has been already used, duplicate ignored
@@ -1284,11 +1284,11 @@ l.73 ...clude{./02-elementos-textuais/descSolucao}
  <../img/erdoboi.jpg>]
 \openout2 = `./02-elementos-textuais/resultados.aux'.
 
- (./02-elementos-textuais/resultados.tex) [27
+ (./02-elementos-textuais/resultados.tex [27
 
 
 
-]
+]) [28]
 \openout2 = `./03-elementos-pos-textuais/referencias.aux'.
 
 
@@ -1302,7 +1302,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-)) [28
+)) [29
 
 
 
@@ -1314,7 +1314,7 @@ Overfull \hbox (9.38249pt too wide) in paragraph at lines 12--44
  [] 
  []
 
-[29
+[30
 
 
 
@@ -1334,7 +1334,7 @@ Overfull \hbox (9.38249pt too wide) in paragraph at lines 80--91
  [] 
  []
 
-[30pdfTeX warning (ext4): destination with the same identifier (name{table.A.3}
+[31pdfTeX warning (ext4): destination with the same identifier (name{table.A.3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1351,29 +1351,29 @@ Overfull \hbox (9.38249pt too wide) in paragraph at lines 99--121
  [] 
  []
 
-[31pdfTeX warning (ext4): destination with the same identifier (name{table.A.5}
+[32pdfTeX warning (ext4): destination with the same identifier (name{table.A.5}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.125 \chapter
-              {DIAGRAMAS DE ATIVIDADE}\label{ativ}]
-<../img/GerenciarAnimal1.png, id=343, 1029.8475pt x 639.13782pt>
+              {DIAGRAMAS DE ATIVIDADE}\label{ap:ativ}]
+<../img/GerenciarAnimal1.png, id=349, 1029.8475pt x 639.13782pt>
 File: ../img/GerenciarAnimal1.png Graphic file (type png)
 <use ../img/GerenciarAnimal1.png>
 Package pdftex.def Info: ../img/GerenciarAnimal1.png  used on input line 129.
 (pdftex.def)             Requested size: 455.0pt x 282.3723pt.
-<../img/GerenciarAnimal2.png, id=344, 1412.27625pt x 718.18312pt>
+<../img/GerenciarAnimal2.png, id=350, 1412.27625pt x 718.18312pt>
 File: ../img/GerenciarAnimal2.png Graphic file (type png)
 <use ../img/GerenciarAnimal2.png>
 Package pdftex.def Info: ../img/GerenciarAnimal2.png  used on input line 138.
 (pdftex.def)             Requested size: 455.0pt x 231.37941pt.
-<../img/GerenciarRemedio.png, id=345, 1235.36531pt x 642.14906pt>
+<../img/GerenciarRemedio.png, id=351, 1235.36531pt x 642.14906pt>
 File: ../img/GerenciarRemedio.png Graphic file (type png)
 <use ../img/GerenciarRemedio.png>
 Package pdftex.def Info: ../img/GerenciarRemedio.png  used on input line 147.
 (pdftex.def)             Requested size: 455.0pt x 236.51361pt.
- [32
+ [33
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.B.18})
  has been already used, duplicate ignored
@@ -1388,18 +1388,18 @@ B.19}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.152 
        <../img/GerenciarAnimal1.png> <../img/GerenciarAnimal2.png>]
-<../img/GerenciarMedicacao.png, id=352, 1239.12938pt x 627.84563pt>
+<../img/GerenciarMedicacao.png, id=358, 1239.12938pt x 627.84563pt>
 File: ../img/GerenciarMedicacao.png Graphic file (type png)
 <use ../img/GerenciarMedicacao.png>
 Package pdftex.def Info: ../img/GerenciarMedicacao.png  used on input line 156.
 
 (pdftex.def)             Requested size: 455.0pt x 230.5365pt.
-<../img/Relatorios.png, id=353, 554.07pt x 464.4853pt>
+<../img/Relatorios.png, id=359, 554.07pt x 464.4853pt>
 File: ../img/Relatorios.png Graphic file (type png)
 <use ../img/Relatorios.png>
 Package pdftex.def Info: ../img/Relatorios.png  used on input line 165.
 (pdftex.def)             Requested size: 455.0pt x 381.43324pt.
- [33pdfTeX warning (ext4): destination with the same identifier (name{figure.B.
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.B.
 20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1411,15 +1411,15 @@ B.21}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.170 
-       <../img/GerenciarRemedio.png> <../img/GerenciarMedicacao.png>] [34pdfTeX
+       <../img/GerenciarRemedio.png> <../img/GerenciarMedicacao.png>] [35pdfTeX
  warning (ext4): destination with the same identifier (name{figure.B.22}) has b
 een already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.171 \chapter
-              {ENTREVISTA COM UM DOS USUÁRIOS}\label{chap:entre} <../img/Relat
-orios.png>]) [35
+              {ENTREVISTA COM UM DOS USUÁRIOS}\label{ap:entre} <../img/Relator
+ios.png>]) [36
 
 ]
 \tf@lof=\write6
@@ -1458,22 +1458,22 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 15167 strings out of 492642
- 228243 string characters out of 6135567
- 422758 words of memory out of 5000000
- 18443 multiletter control sequences out of 15000+600000
- 45234 words of font info for 170 fonts, out of 8000000 for 9000
+ 15168 strings out of 492642
+ 228266 string characters out of 6135567
+ 422836 words of memory out of 5000000
+ 18445 multiletter control sequences out of 15000+600000
+ 45009 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,38p,3079b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,38p,2542b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pf
 b></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dis
 t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (38 pages, 1561474 bytes).
+Output written on main.pdf (39 pages, 1562129 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 440 compressed objects within 5 object streams
- 112 named destinations out of 1000 (max. 500000)
- 24951 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 448 compressed objects within 5 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 24959 words of extra memory for PDF output out of 29859 (max. 10000000)
 
