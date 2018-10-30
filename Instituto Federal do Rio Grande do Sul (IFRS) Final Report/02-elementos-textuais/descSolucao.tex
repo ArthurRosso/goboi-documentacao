@@ -28,7 +28,7 @@ O caso de uso (CdU) Gerenciar Animal trata das operações realizadas com os ani
 
 
 \subsection{\textbf{Telas do Sistema}}\label{telas}
-Nesta subseção serão apresentadas as telas do sistema, quais informações elas aoresentam e quais ações elas possibilitam.
+Nesta subseção serão apresentadas as telas do sistema, quais informações elas mostram ao usuário e quais ações elas possibilitam.
 
 \begin{itemize}
 \item IV001
@@ -184,7 +184,7 @@ A figura 16 é a página de relatórios individuais do animal a qual é apresent
 
 \section{MODELO ENTIDADE RELACIONAMENTO}
 
-O diagrama a seguir mostra o modelo Entidade Relacionamento (ER), que caracteriza a abstração do banco de dados representando a relação do animal com o usuário, com a foto, com o peso, com o propósito, com a raça, com o tipo, e com a remédio, na qual é chamada de medicação. Por sua vez, o remédio também tem uma relação além da medicação, que é o tipo.
+O diagrama a seguir mostra o modelo Entidade Relacionamento (ER), que caracteriza a abstração do banco de dados. As tabelas representam a relação do animal com o usuário, com a foto, com o peso, com o propósito, com a raça, com o tipo, e com a remédio, na qual é chamada de medicação. Por sua vez, o remédio também possui uma relação chamada tipo e outra N:N, sendo necessária a criação de uma tabela de ligação, chamada medicação.
 
 \begin{figure}[H]
 	\begin{center}
@@ -195,3 +195,5 @@ O diagrama a seguir mostra o modelo Entidade Relacionamento (ER), que caracteriz
 	\end{center}
 	\label{er}
 \end{figure}
+
+No próximo capítulo será apresentada a conclusão do presente trabalho com resultados e trabalhos futuros.

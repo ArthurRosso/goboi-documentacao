@@ -68,7 +68,7 @@ O sistema apresenta 2 versões, uma Web e outra Mobile, sendo a segunda mais red
 
 A versão Web é mais completa contendo um painel de dados da fazenda, com gráficos de animais por sexo, animais por lote, peso por lote e algumas informações como número total de animais da fazenda, peso total da fazenda.
 
-A Figura 2 apresenta uma captura de tela da página a página inicial do sistema JetBov versão Web após o Login, nela é apresentada uma série de informações sobre a propriedade, como o total de animais, o peso total de todos os animais o ganho médio de peso por dia quanto vale a arroba do boi gordo no dia. Mais abaixo dessas informações são mostrados gráficos de pizza que indicam as fatias de animais por gênero, lote e peso total por lote. No menu lateral são apresentadas todas as opções que podem ser feitas no sistema.
+A Figura 2 apresenta uma captura de tela da página a página inicial do sistema JetBov versão Web após o Login. Nela é apresentada uma série de informações sobre a propriedade, como: o total de animais, o peso total de todos os animais o ganho médio de peso por dia quanto vale a arroba do boi gordo no dia. Mais abaixo dessas informações são mostrados gráficos de pizza que indicam as fatias de animais por gênero, lote e peso total por lote. No menu lateral são apresentadas todas as opções que podem ser feitas no sistema.
 
 \begin{figure}[H]
 	\begin{center}
@@ -107,7 +107,7 @@ Apresenta duas versões, uma web e outra mobile. A mobile, por ser mais reduzida
 
 A versão Web, por ser mais completa, apresenta uma série de possibilidades de manejos como novo lote, novo animal, nova despesa, nova receita e uma série de análise de dados com relatórios da propriedade.
 
-A figura 3, uma imagem mostrando a página inicial do sistema A3Pecuária versão Web. Nos cartões coloridos estão as informações de total de animais identificados, não identificados, fêmeas cobertas, fêmeas prenhas. Também há um módulo com mensagens de um representante da empresa e gráficos de avisos, referentes ao cadastro de novas categorias, animais que se encontram no fim da fase de lactação, número de medicações, lembretes e novos animais.
+A figura 3 apresenta a página inicial do sistema A3Pecuária versão Web. Nos cartões coloridos estão as informações de total de animais identificados, não identificados, fêmeas cobertas, fêmeas prenhas. Também há um módulo com mensagens de um representante da empresa e gráficos de avisos, referentes ao cadastro de novas categorias, animais que se encontram no fim da fase de lactação, número de medicações, lembretes e novos animais.
 
 
 \begin{figure}[H]
@@ -168,8 +168,7 @@ Esta seção tratará as tecnologias que foram utilizadas na produção do prese
 
 A linguagem utilizada no \textit{backend}\footnote{"Sistema responsável pela regra de negócios, webservices e APIs de uma aplicação."\cite{lamim14}} é Go, uma linguagem de programação de código aberto que facilita a criação de software simples, bastante adequada para pequenos e médios projetos.
 
-Sua utilização se justifica pela facilidade de realizar os CRUD (\textit{Create, Read, Update e Delete}, são as quatro operações básicas utilizadas em dados ou em bases de dados relacionais); baixa abstração o que deixa o ritmo de produção de código rápido uma vez que não é necessário pesquisar o que cada método é responsável; métodos precisos para as necessidades do problema.
-
+Sua utilização se justifica pela facilidade de realizar as operações \textit{Create, Read, Update e Delete} (CRUD, são as quatro operações básicas utilizadas em dados ou em bases de dados relacionais); baixa abstração o que deixa o ritmo de produção de código rápido uma vez que não é necessário pesquisar o que cada método é responsável; métodos precisos para as necessidades do problema.
 \begin{lstlisting}
 // Hello World em Go!
 package main
@@ -181,12 +180,12 @@ func main() {
 }
 \end{lstlisting}
 
-Foram utilizados dois Sistemas Gerenciadores de Banco de Dados (SGBD) no projeto, um local na máquina do pesquisador, o MariaDB, trata-se de um SGBD de código aberto bastante conhecido, é um \textit{fork}\footnote{Segundo \citeonline{sil15} forks são ramificações de projetos já existentes.} do MySQL, e outro para o servidor remoto, para que funcione no Heroku\footnote{Servidor escolhido como o ambiente final de produção. Disponível em:
-<https://www.heroku.com/>}, o PostgreSQL, o "PostgreSQL é um sistema de gerenciamento de banco de dados objeto-relacional (SGBDOR) baseado no POSTGRES Versão 4.2 desenvolvido pelo Departamento de Ciência da Computação da Universidade da Califórnia em Berkeley."  \cite{postgres07}.
+Foram utilizados dois Sistemas Gerenciadores de Banco de Dados (SGBD) no projeto, um local na máquina do pesquisador, o MariaDB, que se trata de um SGBD de código aberto bastante conhecido, é um \textit{fork}\footnote{Segundo \citeonline{sil15} forks são ramificações de projetos já existentes.} do MySQL, e outro para o servidor remoto, para que funcione no Heroku\footnote{Servidor escolhido como o ambiente final de produção. Disponível em:
+<https://www.heroku.com/>}, o PostgreSQL, que "é um sistema de gerenciamento de banco de dados objeto-relacional (SGBDOR) baseado no POSTGRES Versão 4.2 desenvolvido pelo Departamento de Ciência da Computação da Universidade da Califórnia em Berkeley."  \cite{postgres07}.
 
 Para a construção do \textit{frontend}\footnote{"Interface de interação com o usuário."\cite{lamim14}} foi utilizada a linguagem de marcação HTML que providencia a estrutura da página, para os estilos CSS. JavaScript, que é uma linguagem de programação que executa scripts no lado do cliente também foi utilizada. Também se utilizou o framework Materialize, como um facilitador da estilização das páginas HTML, assim foi possível deixa-las responsivas.
 
-Como \textit{template engine} foi utilizado o Mustache, com ele é possível mostrar nas páginas do navegador o conteúdo do banco de dados. Pelo fato de não utilizar lógica, todas as regras de negócio ficam restritas a linguagem do servidor.
+Como \textit{template engine} foi utilizado o Mustache. Com ele é possível mostrar nas páginas do navegador o conteúdo do banco de dados. Pelo fato de não utilizar lógica, todas as regras de negócio ficam restritas a linguagem do servidor.
 
 GORM é uma biblioteca Mapeamento Objeto Relacional (ORM) para Go, ele torna desnessessária a manipulação de código de Linguagem de Consulta Estruturada (SQL) diretamente, facilitando assim o trânsito entre diferentes SGBD. Ele também torna o projeto mais seguro, uma vez que o deixa imune a \textit{SQL Injection}.
 
